@@ -1,0 +1,27 @@
+{
+  "parent": "all_of_food_vanilla:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_apple"
+    },
+    "title": {
+      "translate": "ldiediet.group.ldiediet.sacred_food.name",
+      "fallback": "Священная еда"
+    },
+    "description": {
+      "translate": "ldiediet.advancement.food_group",
+      "with": [
+        1
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

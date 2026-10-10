@@ -1,0 +1,90 @@
+{
+  "name": "Фастфуд",
+  "advancement": "all_of_food:groups/fast_food",
+  "active_effect_text": "Больше жиров",
+  "flag": "-c",
+  "threshold": 5,
+  "hide_activation_message": false,
+  "require_unique": false,
+  "tooltip_icon": "🍔",
+  "tooltip_icon_color": "gold",
+  "items": [
+    "alexsdelight:bison_burger",
+    "alexsdelight:bunfungus_sandwich",
+    "alexsmobs:kangaroo_burger",
+    "brewinandchewin:ham_and_cheese_sandwich",
+    "brewinandchewin:kippers",
+    "brewinandchewin:pizza_slice",
+    "culturaldelights:beef_burrito",
+    "culturaldelights:chicken_taco",
+    "culturaldelights:eggplant_burger",
+    "culturaldelights:fish_taco",
+    "culturaldelights:mutton_sandwich",
+    "culturaldelights:pork_wrap",
+    "culturaldelights:tortilla_chips",
+    "delightful:cheeseburger",
+    "delightful:deluxe_cheeseburger",
+    "delightful:nut_butter_and_jam_sandwich",
+    "endersdelight:crawling_sandwich",
+    "endersdelight:steak_fries",
+    "farmersdelight:bacon_sandwich",
+    "farmersdelight:chicken_sandwich",
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:hamburger",
+    "farmersdelight:mutton_wrap",
+    "galospheric_delight:cave_pizza_slice",
+    "galospheric_delight:lush_sandwich",
+    "ldelightfulcuisine:cheeseburger",
+    "miners_delight:insect_sandwich",
+    "miners_delight:insect_wrap",
+    "miners_delight:squid_sandwich",
+    "miners_delight:vegan_wrap",
+    "mynethersdelight:bacon-wrapped_sausage_on_a_stick",
+    "mynethersdelight:fries_ghasta",
+    "mynethersdelight:hoglin_sausage",
+    "mynethersdelight:hotdog",
+    "mynethersdelight:hotdog_with_mixed_salad",
+    "mynethersdelight:hotdog_with_nether_salad",
+    "mynethersdelight:nether_burger",
+    "mynethersdelight:roasted_sausage",
+    "mynethersdelight:sausage_and_potatoes",
+    "oceanic_delight:shrimp_chips",
+    "warriorsofpastepoch:stale_cheese_sandwich"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:slowness",
+      "amplifier": 0,
+      "duration_ticks": 12000,
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    },
+    {
+      "duration_type": "until_death_intermittent",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:hunger",
+      "amplifier": 0,
+      "interval_active_ticks": [
+        200,
+        200
+      ],
+      "interval_pause_ticks": [
+        1200,
+        1200
+      ],
+      "requires_active_groups": [
+        "temple_body"
+      ],
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.fast_food.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.fast_food.active",
+  "icon": "minecraft:cooked_porkchop",
+  "order": 40
+}

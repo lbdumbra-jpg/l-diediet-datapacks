@@ -1,0 +1,32 @@
+{
+  "name": "Заначка шахтёра",
+  "advancement": "all_of_food_vanilla:groups/rudokop",
+  "active_effect_text": "Отобрал у крота",
+  "flag": "-c",
+  "threshold": 7,
+  "hide_activation_message": false,
+  "require_unique": false,
+  "tooltip_icon": "⛏",
+  "tooltip_icon_color": "gray",
+  "items": [
+    "minecraft:baked_potato",
+    "minecraft:bread",
+    "minecraft:dried_kelp"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:night_vision",
+      "amplifier": 0,
+      "duration_ticks": 6000,
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.rudokop.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.rudokop.active",
+  "icon": "minecraft:baked_potato",
+  "order": 50
+}

@@ -1,0 +1,27 @@
+{
+  "parent": "all_of_food:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:egg"
+    },
+    "title": {
+      "translate": "ldiediet.group.ldiediet.champion_breakfast.name",
+      "fallback": "Завтрак чемпиона"
+    },
+    "description": {
+      "translate": "ldiediet.advancement.food_group",
+      "with": [
+        3
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Молочная чистка",
+  "active_effect_text": "Очищение организма",
+  "flag": "-o",
+  "threshold": 1,
+  "hide_activation_message": true,
+  "require_unique": false,
+  "tooltip_icon": "🥛",
+  "tooltip_icon_color": "white",
+  "items": [
+    "brewinandchewin:flaxen_cheese_wedge",
+    "brewinandchewin:ham_and_cheese_sandwich",
+    "brewinandchewin:scarlet_cheese_wedge",
+    "farmersdelight:milk_bottle",
+    "minecraft:milk_bucket",
+    "miners_delight:milk_cup",
+    "mynethersdelight:dried_ghast_with_milk",
+    "warriorsofpastepoch:moldy_cheese",
+    "warriorsofpastepoch:stale_cheese_sandwich"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:nausea",
+      "amplifier": 0,
+      "duration_ticks": 3600,
+      "requires_active_groups": [
+        "sea_world"
+      ],
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    },
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:nausea",
+      "amplifier": 0,
+      "duration_ticks": 3600,
+      "requires_active_groups": [
+        "basement_asia"
+      ],
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    },
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:speed",
+      "amplifier": 0,
+      "duration_ticks": 3600,
+      "requires_active_groups": [
+        "champion_breakfast"
+      ],
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    }
+  ],
+  "advancement": "all_of_food:groups/milk_detox",
+  "name_key": "ldiediet.group.ldiediet.milk_detox.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.milk_detox.active",
+  "icon": "minecraft:milk_bucket",
+  "order": 90
+}

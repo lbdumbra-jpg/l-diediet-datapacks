@@ -1,0 +1,46 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "**/food_profiles/**/*.json"
+      ],
+      "url": "./schemas/food-profile.schema.json"
+    },
+    {
+      "fileMatch": [
+        "**/food_groups/*.json"
+      ],
+      "url": "./schemas/food-group.schema.json"
+    },
+    {
+      "fileMatch": [
+        "**/nutrition_scales/*.json"
+      ],
+      "url": "./schemas/nutrition-scale.schema.json"
+    },
+    {
+      "fileMatch": [
+        "**/nutrition_rules/*.json"
+      ],
+      "url": "./schemas/nutrition-rule.schema.json"
+    },
+    {
+      "fileMatch": [
+        "**/diet_config.json"
+      ],
+      "url": "./schemas/food-config.schema.json"
+    },
+    {
+      "fileMatch": [
+        "**/data/ldiediet/formulas.json"
+      ],
+      "url": "./schemas/formulas.schema.json"
+    },
+    {
+      "fileMatch": [
+        "**/food_stage_profiles/*.json"
+      ],
+      "url": "./schemas/food-stage-profile.schema.json"
+    }
+  ]
+}

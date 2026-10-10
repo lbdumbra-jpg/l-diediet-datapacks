@@ -1,0 +1,38 @@
+{
+  "name": "50 оттенков жидкости",
+  "advancement": "all_of_food_vanilla:groups/liquid_shades",
+  "active_effect_text": "Пить хочешь?",
+  "flag": "-o",
+  "threshold": 10,
+  "hide_activation_message": false,
+  "require_unique": false,
+  "tooltip_icon": "💧",
+  "tooltip_icon_color": "blue",
+  "items": [
+    "minecraft:honey_bottle",
+    "minecraft:milk_bucket",
+    "minecraft:potion"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:regeneration",
+      "amplifier": 0,
+      "duration_ticks": 6000,
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    },
+    {
+      "duration_type": "until_death",
+      "effect_type": "health",
+      "effect_id": "health_3",
+      "value": 2.0
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.liquid_shades.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.liquid_shades.active",
+  "icon": "minecraft:honey_bottle",
+  "order": 30
+}

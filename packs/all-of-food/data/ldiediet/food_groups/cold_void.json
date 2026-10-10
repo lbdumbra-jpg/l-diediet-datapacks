@@ -1,0 +1,59 @@
+{
+  "name": "Холодная пустота",
+  "advancement": "all_of_food:groups/cold_void",
+  "active_effect_text": "Даже не разогреть",
+  "flag": "-o",
+  "threshold": 7,
+  "hide_activation_message": false,
+  "require_unique": false,
+  "tooltip_icon": "❄",
+  "tooltip_icon_color": "aqua",
+  "items": [
+    "atmospheric:orange_sorbet",
+    "atmospheric:passion_fruit_sorbet",
+    "delightful:cantaloupe_popsicle",
+    "delightful:matcha_ice_cream",
+    "delightful:salmonberry_ice_cream",
+    "delightful:source_berry_ice_cream",
+    "endersdelight:amberveil_stew",
+    "endersdelight:amberveiled_curry",
+    "endersdelight:chicken_curry",
+    "endersdelight:chorus_stew",
+    "endersdelight:crawling_sandwich",
+    "endersdelight:crispy_skewer",
+    "endersdelight:ender_paella",
+    "endersdelight:endermite_stew",
+    "endersdelight:pearl_pasta",
+    "endersdelight:steak_fries",
+    "endersdelight:stuffed_shulker_bowl",
+    "endersdelight:twisted_cereal",
+    "endersdelight:veil_of_flames_risotto",
+    "farmersdelight:melon_popsicle",
+    "fruitsdelight:hamimelon_popsicle",
+    "fruitsdelight:hamimelon_shaved_ice",
+    "fruitsdelight:kiwi_popsicle",
+    "grapesseasonstuff:ice_cubes",
+    "immersive_weathering:ice_sickle",
+    "mynethersdelight:plate_of_cold_striderloaf",
+    "mynethersdelight:tear_popsicle",
+    "rottencreatures:frozen_rotten_flesh",
+    "wan_ancient_beasts:frozen_ancient_meat"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "cold_sweat:ice_resistance",
+      "amplifier": 0,
+      "duration_ticks": 18000,
+      "cancel_on_groups": [
+        "tangible_heat",
+        "sacred_food"
+      ]
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.cold_void.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.cold_void.active",
+  "icon": "minecraft:melon_slice",
+  "order": 30
+}

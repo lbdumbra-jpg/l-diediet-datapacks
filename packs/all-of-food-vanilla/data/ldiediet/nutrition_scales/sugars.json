@@ -1,0 +1,38 @@
+{
+  "name": "Sugars",
+  "name_key": "ldiediet.nutrition.sugars",
+  "max_value": 100,
+  "order": 20,
+  "color": "#C391AE",
+  "icon": "minecraft:textures/item/sugar.png",
+  "thresholds": [
+    {
+      "min": 80,
+      "max": 100,
+      "max_inclusive": false,
+      "modifiers": [
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "amount": 0.05,
+          "operation": "multiply_base"
+        }
+      ]
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "modifiers": [
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "amount": 0.1,
+          "operation": "multiply_base"
+        },
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "amount": 0.05,
+          "operation": "multiply_base"
+        }
+      ]
+    }
+  ]
+}

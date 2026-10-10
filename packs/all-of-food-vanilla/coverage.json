@@ -1,0 +1,23 @@
+{
+  "pack": "All of Food Vanilla",
+  "foods_and_drinks": 43,
+  "groups": 11,
+  "unassigned": [],
+  "nutrition_scales": 6,
+  "per_group": {
+    "base_minimum": 18,
+    "fruitarianism": 7,
+    "herbivores": 10,
+    "liquid_shades": 3,
+    "milk_detox": 1,
+    "rudokop": 3,
+    "sacred_food": 3,
+    "sea_world": 7,
+    "sweet_tooth": 5,
+    "temple_body": 18,
+    "underrated": 3
+  },
+  "definition": "Registered default-stack FoodProperties, EAT/DRINK items and cake; splash/lingering potions excluded.",
+  "source": "Vanilla Forge registry",
+  "fallback_nutrition": []
+}

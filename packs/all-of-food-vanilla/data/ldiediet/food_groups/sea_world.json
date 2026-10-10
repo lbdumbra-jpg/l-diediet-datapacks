@@ -1,0 +1,49 @@
+{
+  "name": "Морской мир",
+  "advancement": "all_of_food_vanilla:groups/sea_world",
+  "active_effect_text": "Солоноватый вкус....",
+  "flag": "-o",
+  "threshold": 5,
+  "hide_activation_message": false,
+  "require_unique": false,
+  "tooltip_icon": "🐟",
+  "tooltip_icon_color": "blue",
+  "items": [
+    "minecraft:cod",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "minecraft:dried_kelp",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:tropical_fish"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:water_breathing",
+      "amplifier": 4,
+      "duration_ticks": 12000,
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    },
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:nausea",
+      "amplifier": 0,
+      "duration_ticks": 3600,
+      "requires_active_groups": [
+        "milk_detox"
+      ],
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.sea_world.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.sea_world.active",
+  "icon": "minecraft:cooked_salmon",
+  "order": 70
+}

@@ -1,0 +1,1092 @@
+﻿item,groups,nutrients,cci,assignment_reason
+abnormals_delight:adzuki_cake_slice,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+abnormals_delight:banana_cake_slice,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,fruit;sweet
+abnormals_delight:cherry_cookie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet
+abnormals_delight:cherry_cream_soda,fruitarianism;liquid_shades;sweet_tooth,"{""fats"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet;drink
+abnormals_delight:chocolate_cake_slice,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+abnormals_delight:cooked_duck_fillet,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+abnormals_delight:cooked_perch_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,seafood;balanced-meal
+abnormals_delight:cooked_pike_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,seafood;balanced-meal
+abnormals_delight:cooked_venison_shanks,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+abnormals_delight:duck_fillet,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+abnormals_delight:duck_noodles,basement_asia,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1,asian-dish
+abnormals_delight:dune_platter,underrated,"{""fruits"": 0.208333, ""proteins"": 0.25, ""sugars"": 0.041667, ""vegetables"": 0.5}",2.722669767582289,prepared-meal
+abnormals_delight:escargot,underrated,"{""fats"": 0.25, ""proteins"": 0.25, ""vegetables"": 0.5}",2.6035280647211274,other-prepared-food
+abnormals_delight:maple_cookie,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1.6656854249492383,original:sweet_tooth;sweet
+abnormals_delight:maple_glazed_bacon,temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1.8499999999999999,original:temple_body
+abnormals_delight:mint_cake_slice,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+abnormals_delight:mulberry_cookie,sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1.5656854249492382,original:sweet_tooth;sweet
+abnormals_delight:passion_aloe_nectar,fruitarianism;herbivores;liquid_shades,"{""fruits"": 0.454545, ""sugars"": 0.090909, ""vegetables"": 0.454545}",2.1967416792648606,original:liquid_shades;fruit;vegetable;drink
+abnormals_delight:passion_fruit_glazed_duck,fruitarianism;temple_body,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",1,fruit;balanced-meal
+abnormals_delight:perch_slice,sea_world,"{""proteins"": 1.0}",1,seafood
+abnormals_delight:perch_with_mushrooms,herbivores;sea_world;underrated,"{""proteins"": 0.5, ""vegetables"": 0.5}",1.792820323027551,original:sea_world;original:underrated;seafood;vegetable
+abnormals_delight:pickerelweed_juice,herbivores;liquid_shades,"{""vegetables"": 1.0}",1.7712409805047937,original:liquid_shades;vegetable;drink
+abnormals_delight:pike_slice,sea_world,"{""proteins"": 1.0}",1,seafood
+abnormals_delight:pike_with_beetroot,herbivores;sea_world;temple_body;underrated,"{""proteins"": 0.5, ""vegetables"": 0.5}",1.792820323027551,original:sea_world;original:underrated;seafood;vegetable;balanced-meal
+abnormals_delight:seared_venison,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+abnormals_delight:slabdish,underrated,"{""carbohydrates"": 1.0}",1,other-prepared-food
+abnormals_delight:strawberry_cake_slice,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,fruit;sweet
+abnormals_delight:vanilla_cake_slice,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+abnormals_delight:venison_shanks,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+abnormals_delight:venison_with_bamboo_shoots,herbivores,"{""proteins"": 0.5, ""vegetables"": 0.5}",1,vegetable
+abnormals_delight:yucca_gateau_slice,base_minimum,"{""carbohydrates"": 0.4, ""fruits"": 0.333333, ""sugars"": 0.066667, ""vegetables"": 0.2}",1.994427190999916,simple/rough-food
+alexsdelight:acacia_blossom_soup,temple_body,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",2.0197270065416966,balanced-meal
+alexsdelight:bison_burger,fast_food,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.726903990260906,original:fast_food;fast-food
+alexsdelight:bison_mince,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+alexsdelight:bison_patty,base_minimum,"{""proteins"": 1.0}",1.1,staple/protein
+alexsdelight:bunfungus_sandwich,fast_food,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.688950310853683,original:fast_food;fast-food
+alexsdelight:cooked_bison,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+alexsdelight:cooked_bunfungus,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+alexsdelight:cooked_bunfungus_drumstick,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+alexsdelight:cooked_catfish_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,seafood;balanced-meal
+alexsdelight:cooked_centipede_leg,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+alexsdelight:cooked_kangaroo_shank,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+alexsdelight:cooked_loose_moose_rib,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+alexsdelight:gongylidia_bruschetta,underrated,"{""carbohydrates"": 0.25, ""fats"": 0.125, ""proteins"": 0.125, ""vegetables"": 0.5}",2.9315314072588756,original:underrated
+alexsdelight:kangaroo_pasta,underrated,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.036393673208363,original:underrated
+alexsdelight:kangaroo_shank,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+alexsdelight:kangaroo_stew,temple_body;underrated,"{""proteins"": 1.0}",1.7823520916159048,original:underrated;balanced-meal;prepared-meal
+alexsdelight:lobster_pasta,sea_world,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.0197270065416966,original:sea_world;seafood
+alexsdelight:loose_moose_rib,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+alexsdelight:maggot_salad,herbivores,"{""vegetables"": 1.0}",2.895130930766422,vegetable
+alexsdelight:raw_bison,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+alexsdelight:raw_bunfungus,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+alexsdelight:raw_bunfungus_drumstick,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+alexsdelight:raw_catfish_slice,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+alexsmobs:banana,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+alexsmobs:blobfish,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+alexsmobs:boiled_emu_egg,champion_breakfast,"{""proteins"": 1.0}",1,breakfast
+alexsmobs:cooked_catfish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+alexsmobs:cooked_kangaroo_meat,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+alexsmobs:cooked_lobster_tail,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+alexsmobs:cooked_moose_ribs,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+alexsmobs:cosmic_cod,sea_world,"{""proteins"": 1.0}",1,seafood
+alexsmobs:fish_oil,liquid_shades;sea_world;temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",2.123137084989848,seafood;drink;balanced-meal
+alexsmobs:flying_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+alexsmobs:gongylidia,underrated,"{""carbohydrates"": 1.0}",1,other-prepared-food
+alexsmobs:kangaroo_burger,fast_food,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.726903990260906,fast-food
+alexsmobs:kangaroo_meat,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+alexsmobs:lobster_tail,sea_world,"{""proteins"": 1.0}",1,seafood
+alexsmobs:maggot,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+alexsmobs:moose_ribs,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+alexsmobs:mosquito_repellent_stew,temple_body;underrated,"{""proteins"": 1.0}",2.5351841879011103,balanced-meal;prepared-meal
+alexsmobs:rainbow_jelly,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+alexsmobs:raw_catfish,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+alexsmobs:shrimp_fried_rice,basement_asia;sea_world;temple_body,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1,seafood;asian-dish;balanced-meal
+alexsmobs:sopa_de_macaco,temple_body,"{""fruits"": 1.0}",2.5351841879011103,original:temple_body
+atmospheric:aloe_gel_bottle,herbivores;liquid_shades,"{""vegetables"": 1.0}",1,vegetable;drink
+atmospheric:aloe_leaves,herbivores,"{""vegetables"": 1.0}",1,vegetable
+atmospheric:blood_orange,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+atmospheric:candied_orange_slices,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8969869896942175,fruit
+atmospheric:currant,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+atmospheric:currant_muffin,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.7307708073409964,fruit;sweet
+atmospheric:dragon_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+atmospheric:ender_dragon_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+atmospheric:golden_dragon_fruit,fruitarianism;sacred_food;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:sacred_food;fruit;golden/enchanted;balanced-meal
+atmospheric:orange,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+atmospheric:orange_pudding,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.648566193354861,fruit;sweet
+atmospheric:orange_sorbet,cold_void;fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.8664772915619743,fruit;sweet;cold
+atmospheric:passion_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+atmospheric:passion_fruit_sorbet,cold_void;fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.8664772915619743,fruit;sweet;cold
+atmospheric:passion_fruit_tart,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,fruit;sweet
+atmospheric:roasted_yucca_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+atmospheric:shimmering_passion_fruit,fruitarianism;sacred_food;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:sacred_food;fruit;golden/enchanted;balanced-meal
+atmospheric:yucca_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+autumnity:cooked_turkey_piece,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+autumnity:foul_berries,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+autumnity:foul_soup,temple_body,"{""fruits"": 1.0}",1.792820323027551,balanced-meal
+autumnity:pumpkin_bread,herbivores;rudokop;temple_body,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",1.972102355330306,vegetable;portable/cave-food;balanced-meal
+autumnity:syrup_bottle,liquid_shades;sweet_tooth,"{""sugars"": 1.0}",1,sweet;drink
+autumnity:turkey_piece,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+brewinandchewin:apple_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.8969869896942175,fruit;sweet;drink
+brewinandchewin:beer,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.6656854249492383,original:high_proof;original:temple_body;drink;alcohol
+brewinandchewin:bloody_mary,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.5656854249492382,original:high_proof;original:temple_body;drink
+brewinandchewin:cheesy_pasta,base_minimum,"{""carbohydrates"": 1.0}",2.0516275827913892,staple/protein
+brewinandchewin:cocoa_fudge,underrated,"{""proteins"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.333333}",1.7712409805047937,other-prepared-food
+brewinandchewin:creamy_onion_soup,herbivores;temple_body,"{""vegetables"": 1.0}",2.676450310853683,vegetable;balanced-meal
+brewinandchewin:dread_nog,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",2.780293628976969,original:high_proof;original:temple_body;drink
+brewinandchewin:egg_grog,champion_breakfast;high_proof;liquid_shades;temple_body,"{""proteins"": 1.0}",1.7712409805047937,original:high_proof;original:temple_body;drink;breakfast
+brewinandchewin:fiery_fondue,underrated,"{""carbohydrates"": 1.0}",1,other-prepared-food
+brewinandchewin:flaxen_cheese_wedge,milk_detox,"{""fats"": 0.5, ""proteins"": 0.5}",1,dairy
+brewinandchewin:glittering_grenadine,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",2.4569581581091167,original:high_proof;original:temple_body;drink
+brewinandchewin:glow_berry_marmalade,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.8969869896942175,fruit;sweet;drink
+brewinandchewin:ham_and_cheese_sandwich,fast_food;milk_detox,"{""carbohydrates"": 0.25, ""fats"": 0.25, ""proteins"": 0.5}",3.060080298679815,original:fast_food;fast-food;dairy
+brewinandchewin:horror_lasagna,underrated,"{""carbohydrates"": 0.2, ""fats"": 0.1, ""proteins"": 0.3, ""vegetables"": 0.4}",2.1462124744777373,other-prepared-food
+brewinandchewin:jerky,rudokop,"{""fats"": 0.076923, ""proteins"": 0.923077}",1.7740187582825715,portable/cave-food
+brewinandchewin:kimchi,basement_asia,"{""proteins"": 0.020833, ""vegetables"": 0.979167}",1.6656854249492383,original:basement_asia;asian-dish
+brewinandchewin:kippers,fast_food,"{""proteins"": 0.666667, ""vegetables"": 0.333333}",1.768463202727016,original:fast_food
+brewinandchewin:kombucha,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.6656854249492383,original:high_proof;original:temple_body;drink
+brewinandchewin:mead,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.6656854249492383,original:high_proof;original:temple_body;drink;alcohol
+brewinandchewin:pale_jane,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",2.5909213539921017,original:high_proof;original:temple_body;drink
+brewinandchewin:pickled_pickles,basement_asia;herbivores,"{""fruits"": 0.5, ""vegetables"": 0.5}",1.5656854249492382,original:basement_asia;vegetable
+brewinandchewin:pizza_slice,fast_food,"{""carbohydrates"": 1.0}",1,original:fast_food;fast-food
+brewinandchewin:quiche_slice,underrated,"{""carbohydrates"": 0.055556, ""fats"": 0.222222, ""proteins"": 0.444444, ""sugars"": 0.055556, ""vegetables"": 0.222222}",1,other-prepared-food
+brewinandchewin:red_rum,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",2.8384619764272956,original:high_proof;original:temple_body;drink;alcohol
+brewinandchewin:rice_wine,basement_asia;high_proof;liquid_shades;temple_body,"{""carbohydrates"": 1.0}",1.5,original:high_proof;original:temple_body;drink;alcohol;asian-dish;balanced-meal
+brewinandchewin:saccharine_rum,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.5656854249492382,original:high_proof;original:temple_body;drink;alcohol
+brewinandchewin:salty_folly,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.5656854249492382,original:high_proof;original:temple_body;drink
+brewinandchewin:scarlet_cheese_wedge,milk_detox,"{""fats"": 0.5, ""proteins"": 0.5}",1,dairy
+brewinandchewin:scarlet_pierogi,underrated,"{""carbohydrates"": 0.175, ""fats"": 0.15, ""proteins"": 0.4, ""vegetables"": 0.275}",2.5599282344972214,other-prepared-food
+brewinandchewin:steel_toe_stout,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",2.7036459544314266,original:high_proof;original:temple_body;drink
+brewinandchewin:strongroot_ale,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.792820323027551,original:high_proof;original:temple_body;drink;alcohol
+brewinandchewin:sweet_berry_jam,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.8969869896942175,fruit;sweet;drink
+brewinandchewin:vegetable_omelet,herbivores;temple_body,"{""vegetables"": 1.0}",1.9000000000000001,vegetable;balanced-meal
+brewinandchewin:vodka,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",1.6656854249492383,original:high_proof;original:temple_body;drink;alcohol
+brewinandchewin:withering_dross,high_proof;liquid_shades;temple_body,"{""carbohydrates"": 0.142857, ""fats"": 0.084034, ""fruits"": 0.455182, ""proteins"": 0.142857, ""sugars"": 0.091037, ""vegetables"": 0.084034}",2.6914568677996002,original:high_proof;original:temple_body;drink
+buzzier_bees:glazed_porkchop,temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",2.1578427124746193,original:temple_body
+buzzier_bees:honey_apple,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.1078427124746186,fruit;sweet
+buzzier_bees:honey_bread,rudokop;sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",2.2496741871928405,sweet;portable/cave-food
+call_of_yucutan:chili_pepper,herbivores;tangible_heat,"{""vegetables"": 1.0}",1,original:tangible_heat;vegetable;hot/nether
+call_of_yucutan:xocolatl,liquid_shades,"{""fats"": 0.083333, ""proteins"": 0.25, ""sugars"": 0.166667, ""vegetables"": 0.5}",3.0666879223397485,drink
+cataclysm:amethyst_crab_meat,sea_world,"{""proteins"": 1.0}",1,seafood
+cataclysm:blessed_amethyst_crab_meat,sea_world,"{""proteins"": 1.0}",1,seafood
+cataclysm:lionfish,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+cnb:apple_slice,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+cnb:light_pink_waterlily,underrated,"{""carbohydrates"": 1.0}",1,other-prepared-food
+cnb:pink_waterlily,underrated,"{""carbohydrates"": 1.0}",1,other-prepared-food
+cnb:yellow_waterlily,underrated,"{""carbohydrates"": 1.0}",1,other-prepared-food
+cold_sweat:filled_waterskin,liquid_shades,{},2.469193740193638,drink
+cold_sweat:soul_sprout,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+crabbersdelight:bisque,sea_world,"{""carbohydrates"": 0.2, ""fats"": 0.1, ""proteins"": 0.3, ""vegetables"": 0.4}",2.677193610352831,original:sea_world;seafood
+crabbersdelight:clam_bake,sea_world,"{""proteins"": 1.0}",2.1110938576665825,original:sea_world;seafood
+crabbersdelight:clam_chowder,sea_world,"{""proteins"": 1.0}",2.628528064721127,original:sea_world;seafood
+crabbersdelight:clawster,sea_world,"{""proteins"": 1.0}",1,seafood
+crabbersdelight:cooked_clam_meat,sea_world;temple_body,"{""proteins"": 1.0}",1.1,original:sea_world;seafood;balanced-meal
+crabbersdelight:cooked_clawster,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+crabbersdelight:cooked_crab,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+crabbersdelight:cooked_frog_leg,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+crabbersdelight:cooked_glow_squid_tentacles,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+crabbersdelight:cooked_pufferfish_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,original:sea_world;seafood;balanced-meal
+crabbersdelight:cooked_shrimp,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+crabbersdelight:cooked_squid_tentacles,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+crabbersdelight:cooked_tropical_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+crabbersdelight:cooked_tropical_fish_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,original:sea_world;seafood;balanced-meal
+crabbersdelight:coral_crunch,sea_world,"{""fats"": 0.5, ""proteins"": 0.5}",2.9555922414942053,original:sea_world;seafood
+crabbersdelight:crab,sea_world,"{""proteins"": 1.0}",1,seafood
+crabbersdelight:crab_cakes,sea_world,"{""proteins"": 1.0}",2.2631370849898476,original:sea_world;seafood
+crabbersdelight:crab_legs,sea_world,"{""proteins"": 1.0}",1.1,seafood
+crabbersdelight:fish_stick,sea_world;temple_body,"{""proteins"": 1.0}",2.2107010183324562,original:sea_world;seafood;balanced-meal
+crabbersdelight:frog_leg_kebob,sea_world,"{""proteins"": 1.0}",2.4770076800602556,seafood
+crabbersdelight:jar_of_pickles,herbivores;sea_world,"{""vegetables"": 1.0}",1.5656854249492382,seafood;vegetable
+crabbersdelight:kelp_shake,herbivores;liquid_shades;sea_world,"{""vegetables"": 1.0}",2.1998192062692334,seafood;vegetable;drink
+crabbersdelight:pufferfish_slice,sea_world,"{""proteins"": 1.0}",1,seafood
+crabbersdelight:raw_clam_meat,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+crabbersdelight:raw_frog_leg,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+crabbersdelight:raw_glow_squid_tentacles,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+crabbersdelight:raw_squid_tentacles,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+crabbersdelight:sea_pickle_juice,herbivores;liquid_shades;sea_world,"{""vegetables"": 1.0}",1.9764694554878732,seafood;vegetable;drink
+crabbersdelight:seafood_gumbo,sea_world,"{""carbohydrates"": 0.2, ""fats"": 0.1, ""proteins"": 0.5, ""vegetables"": 0.2}",1.9000000000000001,original:sea_world;seafood
+crabbersdelight:shrimp,sea_world,"{""proteins"": 1.0}",2.2313708498984766,seafood
+crabbersdelight:shrimp_fried_rice,basement_asia;sea_world;temple_body,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1.9178203230275508,original:basement_asia;seafood;asian-dish;balanced-meal
+crabbersdelight:shrimp_skewer,sea_world,"{""proteins"": 1.0}",2.3890799231028703,original:sea_world;seafood
+crabbersdelight:squid_kebob,sea_world,"{""proteins"": 1.0}",2.497007680060255,original:sea_world;seafood
+crabbersdelight:stuffed_nautilus_shell,sea_world,"{""proteins"": 0.25, ""vegetables"": 0.75}",1.90191123211846,original:sea_world;seafood
+crabbersdelight:surf_and_turf,sea_world,"{""proteins"": 0.666667, ""vegetables"": 0.333333}",1.8123520916159046,original:sea_world;seafood
+crabbersdelight:tropical_fish_slice,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+create:bar_of_chocolate,sweet_tooth,"{""sugars"": 1.0}",1,original:sweet_tooth;sweet
+create:builders_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,drink
+create:chocolate_glazed_berries,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,original:sweet_tooth;fruit;sweet
+create:honeyed_apple,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+create:red_sand_paper,base_minimum,"{""fruits"": 0.416666, ""sugars"": 0.583334}",2.624564142017154,simple/rough-food
+create:sand_paper,base_minimum,"{""fruits"": 0.416666, ""sugars"": 0.583334}",1.8247056274847713,simple/rough-food
+create:sweet_roll,basement_asia;sweet_tooth,"{""sugars"": 1.0}",1.5836629494364434,original:sweet_tooth;sweet;asian-dish
+crittersandcompanions:koi_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+culturaldelights:avocado,fruitarianism,"{""fats"": 0.454545, ""fruits"": 0.454545, ""sugars"": 0.090909}",1,fruit
+culturaldelights:avocado_toast,champion_breakfast;fruitarianism;herbivores,"{""carbohydrates"": 0.3125, ""fats"": 0.3125, ""fruits"": 0.3125, ""sugars"": 0.0625}",1.9602397414280526,original:champion_breakfast;original:herbivores;fruit;breakfast
+culturaldelights:beef_burrito,fast_food;underrated,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""proteins"": 0.333333}",1.930320323027551,original:underrated;fast-food
+culturaldelights:calamari_roll,basement_asia,"{""carbohydrates"": 0.25, ""proteins"": 0.5, ""vegetables"": 0.25}",1.9178203230275508,original:basement_asia;asian-dish
+culturaldelights:chicken_roll,basement_asia,"{""proteins"": 1.0}",2.215510182827557,original:basement_asia
+culturaldelights:chicken_roll_slice,basement_asia,"{""proteins"": 1.0}",2.5155101828275575,original:basement_asia
+culturaldelights:chicken_taco,fast_food;underrated,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.1110938576665825,original:underrated;fast-food
+culturaldelights:cooked_calamari,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+culturaldelights:cooked_squid,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+culturaldelights:corn_cob,herbivores,"{""vegetables"": 1.0}",1,vegetable
+culturaldelights:corn_dough,herbivores,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",1,vegetable
+culturaldelights:creamed_corn,herbivores;underrated,"{""vegetables"": 1.0}",2.5799624138740063,original:underrated;vegetable
+culturaldelights:cucumber,herbivores,"{""vegetables"": 1.0}",1,vegetable
+culturaldelights:cut_avocado,fruitarianism,"{""fats"": 0.454545, ""fruits"": 0.454545, ""sugars"": 0.090909}",1,fruit
+culturaldelights:cut_cucumber,herbivores,"{""vegetables"": 1.0}",1.1,vegetable
+culturaldelights:cut_eggplant,herbivores,"{""vegetables"": 1.0}",1,vegetable
+culturaldelights:cut_pickle,herbivores,"{""vegetables"": 1.0}",1.992820323027551,vegetable
+culturaldelights:egg_roll,basement_asia;champion_breakfast,"{""proteins"": 1.0}",2.489791644693351,original:basement_asia;asian-dish;breakfast
+culturaldelights:eggplant,herbivores,"{""vegetables"": 1.0}",1,vegetable
+culturaldelights:eggplant_burger,fast_food;herbivores,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",2.688950310853683,original:herbivores;vegetable;fast-food
+culturaldelights:eggplant_parmesan,herbivores,"{""vegetables"": 1.0}",1,original:herbivores;vegetable
+culturaldelights:elote,underrated,"{""fats"": 0.25, ""proteins"": 0.25, ""vegetables"": 0.5}",2.6214154833871524,other-prepared-food
+culturaldelights:empanada,herbivores,"{""fruits"": 1.0}",1.9000000000000001,original:herbivores
+culturaldelights:fish_taco,fast_food;sea_world;temple_body,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1.90191123211846,original:sea_world;seafood;fast-food;balanced-meal
+culturaldelights:glow_squid,sea_world,"{""proteins"": 1.0}",1,seafood
+culturaldelights:hearty_salad,champion_breakfast;herbivores;temple_body,"{""fruits"": 0.5, ""vegetables"": 0.5}",2.633891091898848,original:champion_breakfast;vegetable;balanced-meal
+culturaldelights:midori_roll,basement_asia,"{""fruits"": 1.0}",2.215510182827557,original:basement_asia;asian-dish
+culturaldelights:midori_roll_slice,basement_asia,"{""fruits"": 1.0}",2.5155101828275575,original:basement_asia;asian-dish
+culturaldelights:mutton_sandwich,fast_food,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.7596968294759128,original:fast_food;fast-food
+culturaldelights:pickle,herbivores,"{""vegetables"": 1.0}",1.792820323027551,vegetable
+culturaldelights:poached_eggplants,herbivores,"{""proteins"": 0.25, ""vegetables"": 0.75}",1.792820323027551,original:herbivores
+culturaldelights:popcorn,herbivores,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",1.1,vegetable
+culturaldelights:pork_wrap,fast_food;temple_body,"{""fruits"": 0.5, ""proteins"": 0.5}",2.024070323027551,original:temple_body;fast-food
+culturaldelights:pufferfish_roll,basement_asia;sea_world,"{""proteins"": 1.0}",1.7990187582825714,original:basement_asia;seafood;asian-dish
+culturaldelights:raw_calamari,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+culturaldelights:rice_ball,basement_asia;temple_body,"{""carbohydrates"": 0.5, ""fruits"": 0.5}",2.04,original:basement_asia;asian-dish;balanced-meal
+culturaldelights:smoked_corn,herbivores;rudokop,"{""vegetables"": 1.0}",1,vegetable;portable/cave-food
+culturaldelights:smoked_cut_eggplant,herbivores;rudokop,"{""vegetables"": 1.0}",1.1,original:herbivores;vegetable;portable/cave-food
+culturaldelights:smoked_eggplant,herbivores;rudokop,"{""vegetables"": 1.0}",1,vegetable;portable/cave-food
+culturaldelights:smoked_tomato,herbivores;rudokop,"{""vegetables"": 1.0}",1,vegetable;portable/cave-food
+culturaldelights:smoked_white_eggplant,herbivores;rudokop,"{""vegetables"": 1.0}",1.1,vegetable;portable/cave-food
+culturaldelights:spicy_curry,basement_asia;tangible_heat;underrated,"{""carbohydrates"": 0.166667, ""fats"": 0.083333, ""proteins"": 0.25, ""vegetables"": 0.5}",2.7265656854622997,original:basement_asia;asian-dish;hot/nether;prepared-meal
+culturaldelights:squid,sea_world,"{""proteins"": 1.0}",1,seafood
+culturaldelights:tortilla,underrated,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",1,other-prepared-food
+culturaldelights:tortilla_chips,fast_food,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",1.1,fast-food
+culturaldelights:tropical_roll,basement_asia;sea_world,"{""proteins"": 1.0}",1.9178203230275508,original:basement_asia;seafood;asian-dish
+culturaldelights:white_eggplant,herbivores,"{""vegetables"": 1.0}",1,vegetable
+delightful:acorn,base_minimum;herbivores,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable
+delightful:aged_fish_roe,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+delightful:aged_prawn_roe,sea_world,"{""proteins"": 1.0}",1,seafood
+delightful:animal_fat,base_minimum,"{""fats"": 1.0}",1,simple/rough-food
+delightful:azalea_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,drink
+delightful:baklava_slice,sweet_tooth,"{""fruits"": 1.0}",1,original:sweet_tooth
+delightful:berry_matcha_latte,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.677789472496367,fruit;drink
+delightful:blueberry_pie_slice,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet
+delightful:cactus_chili,herbivores;tangible_heat;underrated,"{""vegetables"": 1.0}",2.0050000000000003,original:underrated;vegetable;hot/nether
+delightful:cactus_flesh,herbivores,"{""proteins"": 0.5, ""vegetables"": 0.5}",1,vegetable
+delightful:cactus_soup,herbivores;temple_body;underrated,"{""vegetables"": 1.0}",1.792820323027551,original:underrated;vegetable;balanced-meal
+delightful:cactus_soup_cup,herbivores;liquid_shades;temple_body,"{""vegetables"": 1.0}",1,vegetable;drink;balanced-meal
+delightful:cactus_steak,herbivores,"{""proteins"": 0.5, ""vegetables"": 0.5}",1.1,vegetable
+delightful:cantaloupe_bread,rudokop,"{""carbohydrates"": 1.0}",1.8240956687066305,portable/cave-food
+delightful:cantaloupe_gummy,base_minimum,"{""fruits"": 1.0}",2.549113426688415,simple/rough-food
+delightful:cantaloupe_popsicle,cold_void;sweet_tooth,"{""sugars"": 1.0}",3.0259964825490435,sweet;cold
+delightful:cantaloupe_slice,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+delightful:cheeseburger,fast_food,"{""carbohydrates"": 1.0}",2.8651495890072285,original:fast_food;fast-food
+delightful:chopped_clover,herbivores,"{""vegetables"": 1.0}",1,vegetable
+delightful:chorus_muffin,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.6656854249492383,fruit;sweet
+delightful:chorus_pie_slice,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet
+delightful:chunkwich,base_minimum,"{""carbohydrates"": 1.0}",1,staple/protein
+delightful:coconut_curry,basement_asia;fruitarianism;underrated,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.7015656854623002,original:underrated;fruit;asian-dish;prepared-meal
+delightful:cooked_goat,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+delightful:cooked_marshmallow_stick,sweet_tooth,"{""sugars"": 1.0}",2.283383665463799,sweet
+delightful:cooked_venison_chops,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+delightful:crab_rangoon,sea_world,"{""proteins"": 1.0}",1.829651224262186,seafood
+delightful:deluxe_cheeseburger,fast_food,"{""carbohydrates"": 1.0}",3.008268171272502,original:fast_food;fast-food
+delightful:ender_nectar,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8730568490093453,drink
+delightful:field_salad,herbivores;temple_body;underrated,"{""fruits"": 0.5, ""vegetables"": 0.5}",2.8182895341838767,original:underrated;vegetable;balanced-meal
+delightful:gloomgourd_pie_slice,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1,sweet
+delightful:glow_jam_cookie,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",2.0151832565649412,sweet
+delightful:glow_jam_jar,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+delightful:green_apple_pie_slice,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet
+delightful:green_tea_leaf,liquid_shades,"{""carbohydrates"": 1.0}",1,drink
+delightful:honey_glazed_walnut,sweet_tooth,"{""fats"": 0.5, ""sugars"": 0.5}",2.1375805665989844,sweet
+delightful:jam_jar,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+delightful:lavender_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,drink
+delightful:long_prickly_pear_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,fruit;drink
+delightful:marshmallow_stick,sweet_tooth,"{""sugars"": 1.0}",1.8833836654637988,sweet
+delightful:matcha_gummy,base_minimum,"{""sugars"": 0.666667, ""vegetables"": 0.333333}",2.549113426688415,simple/rough-food
+delightful:matcha_ice_cream,cold_void;sweet_tooth,"{""fats"": 0.5, ""sugars"": 0.5}",3.147491768182399,sweet;cold
+delightful:matcha_latte,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.815685424949238,drink
+delightful:matcha_milkshake,liquid_shades,"{""fats"": 0.5, ""proteins"": 0.25, ""sugars"": 0.25}",3.7474758019608836,original:liquid_shades;drink
+delightful:mulberry_pie_slice,sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,original:sweet_tooth;sweet
+delightful:mutton_pie_slice,sweet_tooth,"{""carbohydrates"": 0.333333, ""proteins"": 0.333333, ""sugars"": 0.333333}",1,sweet
+delightful:nut_butter_and_jam_sandwich,fast_food;sweet_tooth,"{""carbohydrates"": 0.333333, ""fats"": 0.333333, ""sugars"": 0.333333}",2.9220821747802574,sweet;fast-food
+delightful:nut_butter_bottle,liquid_shades,"{""fats"": 1.0}",1,drink
+delightful:nut_dough,base_minimum,"{""carbohydrates"": 0.5, ""fats"": 0.5}",1,staple/protein
+delightful:passion_fruit_tart_slice,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,original:sweet_tooth;fruit;sweet
+delightful:prickly_pear_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8692801017954501,fruit;drink
+delightful:pumpkin_pie_slice,herbivores;sweet_tooth,"{""carbohydrates"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.333333}",1,original:sweet_tooth;vegetable;sweet
+delightful:raw_goat,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+delightful:roasted_acorn,base_minimum;herbivores;temple_body,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable;balanced-meal
+delightful:rock_candy,sweet_tooth,"{""sugars"": 1.0}",2.094782212689519,sweet
+delightful:roe_blini,sea_world,"{""proteins"": 1.0}",1,seafood
+delightful:salmon_and_roe_blini,sea_world,"{""proteins"": 1.0}",1,seafood
+delightful:salmonberries,base_minimum,"{""fruits"": 1.0}",1,original:base_minimum
+delightful:salmonberry_gummy,base_minimum,"{""fruits"": 1.0}",2.549113426688415,simple/rough-food
+delightful:salmonberry_ice_cream,cold_void;sweet_tooth,"{""fats"": 0.5, ""sugars"": 0.5}",3.147491768182399,sweet;cold
+delightful:salmonberry_milkshake,liquid_shades,"{""fats"": 0.5, ""proteins"": 0.25, ""sugars"": 0.25}",3.7474758019608836,original:liquid_shades;drink
+delightful:salmonberry_pie_slice,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1,original:sweet_tooth;sweet
+delightful:sinigang,basement_asia,"{""fruits"": 1.0}",2.098593857666583,original:basement_asia
+delightful:sinigang_cup,basement_asia;liquid_shades,"{""fats"": 0.0625, ""fruits"": 0.215476, ""proteins"": 0.1875, ""sugars"": 0.034524, ""vegetables"": 0.5}",1.899070323027551,original:basement_asia;drink
+delightful:smore,underrated,"{""carbohydrates"": 0.25, ""sugars"": 0.75}",3.0824565226929925,other-prepared-food
+delightful:source_berry_cookie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet
+delightful:source_berry_gummy,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+delightful:source_berry_ice_cream,cold_void;fruitarianism;sweet_tooth,"{""fats"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet;cold
+delightful:source_berry_milkshake,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;drink
+delightful:source_berry_pie_slice,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet
+delightful:stuffed_cantaloupe,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+delightful:venison_chops,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+delightful:venison_stew,temple_body;underrated,"{""proteins"": 1.0}",1.792820323027551,original:underrated;balanced-meal;prepared-meal
+delightful:venison_stew_cup,liquid_shades;temple_body;underrated,"{""proteins"": 1.0}",1,original:underrated;drink;balanced-meal;prepared-meal
+delightful:wrapped_cantaloupe,underrated,"{""fats"": 0.25, ""fruits"": 0.5, ""proteins"": 0.25}",1.8499999999999999,other-prepared-food
+domesticationinnovation:rotten_apple,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+domesticationinnovation:sinister_carrot,herbivores;temple_body,"{""vegetables"": 1.0}",1,vegetable;balanced-meal
+ecologics:coconut_slice,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+ecologics:cooked_prickly_pear,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+ecologics:crab_meat,sea_world,"{""proteins"": 1.0}",1,seafood
+ecologics:prickly_pear,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+ecologics:tropical_stew,sea_world;temple_body;underrated,"{""proteins"": 1.0}",1.7740187582825715,seafood;balanced-meal;prepared-meal
+ecologics:walnut,base_minimum,"{""fats"": 1.0}",1,simple/rough-food
+endergetic:bolloom_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+endergetic:cooked_eetle_egg,champion_breakfast;temple_body,"{""proteins"": 1.0}",1,breakfast;balanced-meal
+endersdelight:amberveil_stew,cold_void;temple_body;underrated,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.792820323027551,original:cold_void;balanced-meal;prepared-meal
+endersdelight:amberveiled_curry,basement_asia;cold_void;underrated,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.6656854249492383,original:cold_void;asian-dish;prepared-meal
+endersdelight:chicken_curry,cold_void;underrated,"{""proteins"": 1.0}",1.994427190999916,original:cold_void;prepared-meal
+endersdelight:chorus_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.9764694554878732,fruit;drink
+endersdelight:chorus_pie_slice,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",2.6350745536021796,fruit;sweet
+endersdelight:chorus_stew,cold_void;fruitarianism;liquid_shades;temple_body;underrated,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.4,original:cold_void;fruit;drink;balanced-meal;prepared-meal
+endersdelight:crawling_sandwich,cold_void;fast_food,"{""carbohydrates"": 1.0}",2.063736060386662,original:cold_void;fast-food
+endersdelight:crispy_skewer,cold_void,"{""carbohydrates"": 0.333333, ""fruits"": 0.555555, ""sugars"": 0.111111}",2.3890799231028703,original:cold_void
+endersdelight:ender_paella,cold_void,"{""carbohydrates"": 1.0}",1.792820323027551,original:cold_void
+endersdelight:endermite_stew,cold_void;temple_body;underrated,"{""proteins"": 1.0}",1.7249999999999999,original:cold_void;balanced-meal;prepared-meal
+endersdelight:mite_crust,base_minimum,"{""carbohydrates"": 1.0}",1,staple/protein
+endersdelight:pearl_pasta,cold_void,"{""carbohydrates"": 0.5, ""fruits"": 0.5}",2.3515293675747584,original:cold_void
+endersdelight:shulker_filet,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+endersdelight:shulker_mollusk,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+endersdelight:steak_fries,cold_void;fast_food,"{""proteins"": 1.0}",2.1967416792648606,original:cold_void;original:fast_food;fast-food
+endersdelight:strange_eclair,sweet_tooth,"{""carbohydrates"": 0.5, ""proteins"": 0.25, ""sugars"": 0.25}",1.9719869896942175,original:sweet_tooth
+endersdelight:stuffed_shulker_bowl,cold_void,"{""fruits"": 0.5, ""proteins"": 0.5}",1,original:cold_void
+endersdelight:twisted_cereal,champion_breakfast;cold_void,"{""carbohydrates"": 0.5, ""fruits"": 0.5}",2.3131370849898474,original:cold_void;breakfast
+endersdelight:uncanny_cookies,sweet_tooth,"{""sugars"": 1.0}",1.8969869896942175,original:sweet_tooth;sweet
+endersdelight:veil_of_flames_risotto,cold_void,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.5656854249492382,original:cold_void
+farmersdelight:apple_cider,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8067965360603495,original:liquid_shades;fruit;drink
+farmersdelight:apple_pie_slice,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,original:sweet_tooth;fruit;sweet
+farmersdelight:bacon,temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1.1,original:temple_body
+farmersdelight:bacon_and_eggs,champion_breakfast;temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",2.867085521694415,original:champion_breakfast;original:temple_body;breakfast
+farmersdelight:bacon_sandwich,fast_food;temple_body,"{""carbohydrates"": 0.333333, ""fats"": 0.333333, ""proteins"": 0.333333}",2.751450310853683,original:fast_food;original:temple_body;fast-food
+farmersdelight:baked_cod_stew,rudokop;sea_world;temple_body;underrated,"{""proteins"": 1.0}",1.792820323027551,original:underrated;seafood;portable/cave-food;balanced-meal;prepared-meal
+farmersdelight:barbecue_stick,underrated,"{""fats"": 0.008333, ""proteins"": 0.325, ""vegetables"": 0.666667}",2.3997049231028704,other-prepared-food
+farmersdelight:beef_patty,base_minimum,"{""proteins"": 1.0}",1.1,staple/protein
+farmersdelight:beef_stew,temple_body;underrated,"{""proteins"": 1.0}",1.6656854249492383,original:underrated;balanced-meal;prepared-meal
+farmersdelight:bone_broth,liquid_shades;temple_body,"{""fruits"": 0.091991, ""proteins"": 0.5, ""sugars"": 0.018398, ""vegetables"": 0.38961}",1.5,original:temple_body;drink
+farmersdelight:cabbage,base_minimum;herbivores;temple_body,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable;balanced-meal
+farmersdelight:cabbage_leaf,herbivores;temple_body,"{""vegetables"": 1.0}",1,vegetable;balanced-meal
+farmersdelight:cabbage_rolls,basement_asia;herbivores;temple_body;underrated,"{""vegetables"": 1.0}",1.6011494252873562,original:underrated;vegetable;asian-dish;balanced-meal;prepared-meal
+farmersdelight:cake_slice,sweet_tooth,"{""sugars"": 1.0}",3.839851654007808,sweet
+farmersdelight:chicken_cuts,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+farmersdelight:chicken_sandwich,fast_food;underrated,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.688950310853683,original:underrated;fast-food
+farmersdelight:chicken_soup,temple_body;underrated,"{""proteins"": 1.0}",1.792820323027551,original:underrated;balanced-meal
+farmersdelight:chocolate_pie_slice,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1,original:sweet_tooth;sweet
+farmersdelight:cod_roll,basement_asia;sea_world,"{""proteins"": 1.0}",1.7990187582825714,original:basement_asia;seafood;asian-dish
+farmersdelight:cod_slice,sea_world,"{""proteins"": 1.0}",1,seafood
+farmersdelight:cooked_bacon,temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1.3,original:temple_body;balanced-meal
+farmersdelight:cooked_chicken_cuts,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+farmersdelight:cooked_cod_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,seafood;balanced-meal
+farmersdelight:cooked_mutton_chops,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+farmersdelight:cooked_rice,basement_asia;temple_body,"{""carbohydrates"": 1.0}",1.1,asian-dish;balanced-meal
+farmersdelight:cooked_salmon_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,seafood;balanced-meal
+farmersdelight:dog_food,base_minimum,"{""proteins"": 1.0}",1.9994869896942176,staple/protein
+farmersdelight:dumplings,basement_asia;underrated,"{""carbohydrates"": 1.0}",1.9352391169567063,original:underrated;asian-dish;prepared-meal
+farmersdelight:egg_sandwich,champion_breakfast;fast_food,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.865849458376693,original:champion_breakfast;fast-food;breakfast
+farmersdelight:fish_stew,sea_world;temple_body;underrated,"{""proteins"": 1.0}",1.7670743138381269,original:sea_world;seafood;balanced-meal;prepared-meal
+farmersdelight:fried_egg,champion_breakfast,"{""proteins"": 1.0}",1,original:champion_breakfast;breakfast
+farmersdelight:fried_rice,basement_asia;temple_body,"{""carbohydrates"": 1.0}",1.9000000000000001,asian-dish;balanced-meal
+farmersdelight:fruit_salad,fruitarianism;herbivores;temple_body,"{""fruits"": 0.454545, ""sugars"": 0.090909, ""vegetables"": 0.454545}",2.8040038198981625,original:herbivores;fruit;vegetable;balanced-meal
+farmersdelight:gleaming_salad,herbivores;sacred_food;temple_body,"{""vegetables"": 1.0}",1,vegetable;golden/enchanted;balanced-meal
+farmersdelight:glow_berry_custard,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.607694731387794,fruit;sweet
+farmersdelight:grilled_salmon,sea_world;temple_body,"{""fruits"": 0.5, ""proteins"": 0.5}",2.6438910918988476,seafood;balanced-meal
+farmersdelight:ham,base_minimum,"{""fats"": 0.5, ""proteins"": 0.5}",1,staple/protein
+farmersdelight:hamburger,fast_food,"{""carbohydrates"": 0.2, ""proteins"": 0.2, ""vegetables"": 0.6}",2.726903990260906,original:fast_food
+farmersdelight:honey_cookie,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",2.1375805665989844,original:sweet_tooth;sweet
+farmersdelight:honey_glazed_ham,sweet_tooth;underrated,"{""fats"": 0.25, ""fruits"": 0.25, ""proteins"": 0.25, ""sugars"": 0.25}",1,original:underrated;sweet
+farmersdelight:hot_cocoa,liquid_shades;tangible_heat,"{""fats"": 0.166667, ""proteins"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.166667}",1.9195088977236316,original:liquid_shades;drink;hot/nether
+farmersdelight:kelp_roll,basement_asia;herbivores;sea_world,"{""vegetables"": 1.0}",2.1277605243332496,original:basement_asia;seafood;vegetable;asian-dish
+farmersdelight:kelp_roll_slice,basement_asia;herbivores;sea_world,"{""vegetables"": 1.0}",2.42776052433325,original:basement_asia;seafood;vegetable;asian-dish
+farmersdelight:melon_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.9065050602590101,original:liquid_shades;fruit;drink
+farmersdelight:melon_popsicle,cold_void;fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",3.0259964825490435,fruit;sweet;cold
+farmersdelight:milk_bottle,liquid_shades;milk_detox,"{""fats"": 0.5, ""proteins"": 0.5}",1.815685424949238,drink;dairy
+farmersdelight:minced_beef,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+farmersdelight:mixed_salad,herbivores;temple_body,"{""vegetables"": 1.0}",2.5351841879011103,original:herbivores;vegetable;balanced-meal
+farmersdelight:mushroom_rice,basement_asia;herbivores;temple_body;underrated,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",1.792820323027551,original:underrated;vegetable;asian-dish;balanced-meal
+farmersdelight:mutton_chops,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+farmersdelight:mutton_wrap,fast_food;underrated,"{""proteins"": 1.0}",1.9053203230275508,original:underrated;fast-food
+farmersdelight:nether_salad,herbivores;tangible_heat;temple_body,"{""vegetables"": 1.0}",2.4499483558917614,vegetable;hot/nether;balanced-meal
+farmersdelight:noodle_soup,basement_asia;temple_body,"{""carbohydrates"": 1.0}",2.327582434746952,original:basement_asia;asian-dish;balanced-meal
+farmersdelight:onion,base_minimum;herbivores,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable
+farmersdelight:onion_soup,herbivores;temple_body,"{""vegetables"": 1.0}",1,vegetable;balanced-meal
+farmersdelight:pasta_with_meatballs,base_minimum,"{""carbohydrates"": 1.0}",1.9427062157454673,staple/protein
+farmersdelight:pasta_with_mutton_chop,base_minimum,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1.9427062157454673,staple/protein
+farmersdelight:pie_crust,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1,sweet
+farmersdelight:pumpkin_pie_slice,herbivores;sweet_tooth,"{""carbohydrates"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.333333}",1,vegetable;sweet
+farmersdelight:pumpkin_slice,herbivores;temple_body,"{""vegetables"": 1.0}",1,vegetable;balanced-meal
+farmersdelight:pumpkin_soup,herbivores;temple_body;underrated,"{""vegetables"": 1.0}",2.609778064721127,original:underrated;vegetable;balanced-meal
+farmersdelight:ratatouille,underrated,"{""proteins"": 0.015625, ""vegetables"": 0.984375}",1.792820323027551,prepared-meal
+farmersdelight:raw_pasta,rudokop,"{""carbohydrates"": 1.0}",1.4621247447773742,portable/cave-food
+farmersdelight:roast_chicken,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+farmersdelight:roasted_mutton_chops,temple_body,"{""proteins"": 1.0}",2.6738910918988474,balanced-meal
+farmersdelight:salmon_roll,basement_asia;sea_world,"{""proteins"": 1.0}",1.7990187582825714,original:basement_asia;seafood;asian-dish
+farmersdelight:salmon_slice,sea_world,"{""proteins"": 1.0}",1,seafood
+farmersdelight:shepherds_pie,sweet_tooth;underrated,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1,original:underrated;sweet
+farmersdelight:smoked_ham,rudokop,"{""fats"": 0.5, ""proteins"": 0.5}",1,portable/cave-food
+farmersdelight:squid_ink_pasta,sea_world,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.075585916124723,original:sea_world;seafood
+farmersdelight:steak_and_potatoes,herbivores,"{""proteins"": 0.5, ""vegetables"": 0.5}",2.6738910918988474,vegetable
+farmersdelight:stuffed_potato,herbivores;underrated,"{""vegetables"": 1.0}",2.6299624138740065,original:underrated;vegetable
+farmersdelight:stuffed_pumpkin,herbivores;temple_body,"{""fruits"": 0.5, ""vegetables"": 0.5}",1,vegetable;balanced-meal
+farmersdelight:sweet_berry_cheesecake_slice,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,fruit;sweet
+farmersdelight:sweet_berry_cookie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1.5656854249492382,original:sweet_tooth;fruit;sweet
+farmersdelight:tomato,base_minimum;herbivores,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable
+farmersdelight:tomato_sauce,herbivores,"{""vegetables"": 1.0}",1,vegetable
+farmersdelight:vegetable_noodles,basement_asia;herbivores;temple_body,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",2.1462124744777373,original:herbivores;vegetable;asian-dish;balanced-meal
+farmersdelight:vegetable_soup,herbivores;temple_body,"{""vegetables"": 1.0}",1.792820323027551,original:herbivores;vegetable;balanced-meal
+farmersdelight:wheat_dough,base_minimum,"{""carbohydrates"": 1.0}",1,staple/protein
+farmersrespite:black_cod,sea_world,"{""proteins"": 1.0}",2.663891091898847,original:sea_world;seafood
+farmersrespite:black_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:blazing_chili,tangible_heat,"{""proteins"": 0.375, ""vegetables"": 0.625}",2.840686610101877,hot/nether
+farmersrespite:coffee,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:coffee_berries,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;drink
+farmersrespite:coffee_cake_slice,liquid_shades;sweet_tooth,"{""sugars"": 1.0}",1,original:sweet_tooth;sweet;drink
+farmersrespite:dandelion_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:gamblers_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:green_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:green_tea_cookie,liquid_shades;sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1.5656854249492382,original:sweet_tooth;sweet;drink
+farmersrespite:long_apple_cider,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,original:liquid_shades;fruit;drink
+farmersrespite:long_black_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:long_coffee,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:long_dandelion_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:long_gamblers_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:long_green_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:long_purulent_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:long_rose_hip_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:long_yellow_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:nether_wart_sourdough,tangible_heat,"{""vegetables"": 1.0}",2.9122094516804924,hot/nether
+farmersrespite:purulent_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:rose_hip_pie_slice,sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,original:sweet_tooth;sweet
+farmersrespite:rose_hip_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:strong_apple_cider,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,original:liquid_shades;fruit;drink
+farmersrespite:strong_black_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:strong_coffee,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:strong_gamblers_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:strong_green_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:strong_hot_cocoa,liquid_shades;tangible_heat,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink;hot/nether
+farmersrespite:strong_melon_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,original:liquid_shades;fruit;drink
+farmersrespite:strong_purulent_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:strong_rose_hip_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:strong_yellow_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+farmersrespite:tea_curry,basement_asia;liquid_shades;underrated,"{""carbohydrates"": 0.25, ""proteins"": 0.25, ""vegetables"": 0.5}",1.994427190999916,original:basement_asia;drink;asian-dish;prepared-meal
+farmersrespite:yellow_tea,liquid_shades,"{""fats"": 0.02381, ""fruits"": 0.599888, ""proteins"": 0.031994, ""sugars"": 0.310454, ""vegetables"": 0.033854}",1.8156854249492382,original:liquid_shades;drink
+fruitsdelight:apple_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:apple_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:baked_durian,fruitarianism;rudokop;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.1,fruit;portable/cave-food;balanced-meal
+fruitsdelight:baked_pear,fruitarianism;rudokop;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:fruitarianism;fruit;portable/cave-food;balanced-meal
+fruitsdelight:bayberry,base_minimum;fruitarianism,"{""fruits"": 1.0}",1,original:base_minimum;fruit
+fruitsdelight:bayberry_cookie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1.5656854249492382,fruit;sweet
+fruitsdelight:bayberry_jello,fruitarianism,"{""fruits"": 1.0}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:bayberry_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:bayberry_soup,fruitarianism;liquid_shades;sweet_tooth;temple_body,"{""fruits"": 1.0}",1.692820323027551,original:sweet_tooth;fruit;drink;balanced-meal
+fruitsdelight:bellini_cocktail,fruitarianism;high_proof;liquid_shades,"{""fruits"": 1.0}",2.019899425818827,original:fruitarianism;fruit;drink;alcohol
+fruitsdelight:blueberry,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:blueberry_custard,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.266470418323181,original:fruitarianism;fruit;sweet;drink
+fruitsdelight:blueberry_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:blueberry_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:blueberry_muffin,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.3331525396025663,original:sweet_tooth;fruit;sweet
+fruitsdelight:bowl_of_pineapple_fried_rice,basement_asia;fruitarianism;temple_body,"{""carbohydrates"": 0.454545, ""fruits"": 0.454545, ""sugars"": 0.090909}",1,original:fruitarianism;fruit;asian-dish;balanced-meal
+fruitsdelight:chorus_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:chorus_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:cranberry,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:cranberry_cookie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1.5656854249492382,original:sweet_tooth;fruit;sweet
+fruitsdelight:cranberry_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:cranberry_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:cranberry_muffin,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.3331525396025663,original:sweet_tooth;fruit;sweet
+fruitsdelight:dried_persimmon,fruitarianism;rudokop,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;portable/cave-food
+fruitsdelight:durian_flesh,fruitarianism,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",1,fruit
+fruitsdelight:durian_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:durian_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:durian_pie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",2.0033333333333334,original:sweet_tooth;fruit;sweet
+fruitsdelight:fig,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:fig_chicken_stew,fruitarianism;temple_body;underrated,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",1.6656854249492383,original:fruitarianism;fruit;balanced-meal;prepared-meal
+fruitsdelight:fig_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:fig_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:fig_pudding_slice,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,original:sweet_tooth;fruit;sweet
+fruitsdelight:fig_tart,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.266470418323181,original:sweet_tooth;fruit;sweet
+fruitsdelight:glowberry_jello,fruitarianism,"{""fruits"": 1.0}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:glowberry_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:hamimelon_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:hamimelon_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:hamimelon_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969411254969543,original:liquid_shades;fruit;drink
+fruitsdelight:hamimelon_popsicle,cold_void;fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",3.008660168006822,original:fruitarianism;fruit;sweet;cold
+fruitsdelight:hamimelon_shaved_ice,cold_void;fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.653851068423571,original:fruitarianism;fruit;drink;cold
+fruitsdelight:hamimelon_slice,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:hawberry,base_minimum;fruitarianism,"{""fruits"": 1.0}",1,original:base_minimum;fruit
+fruitsdelight:hawberry_jello,fruitarianism,"{""fruits"": 1.0}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:hawberry_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:hawberry_roll,basement_asia;fruitarianism,"{""fruits"": 1.0}",2.2144838006460184,original:fruitarianism;fruit;asian-dish
+fruitsdelight:hawberry_sheet,fruitarianism,"{""fruits"": 1.0}",1.8969869896942175,original:fruitarianism;fruit
+fruitsdelight:hawberry_stick,fruitarianism,"{""fruits"": 1.0}",2.564155813272351,original:fruitarianism;fruit
+fruitsdelight:hawberry_tea,fruitarianism;liquid_shades,"{""fruits"": 1.0}",1.9567657096839788,original:liquid_shades;fruit;drink
+fruitsdelight:jelly_bread,fruitarianism;rudokop;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1.6144928916981964,original:fruitarianism;fruit;sweet;portable/cave-food
+fruitsdelight:kiwi,base_minimum;fruitarianism,"{""fruits"": 1.0}",1,original:base_minimum;fruit
+fruitsdelight:kiwi_jello,fruitarianism,"{""fruits"": 1.0}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:kiwi_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:kiwi_juice,fruitarianism;liquid_shades,"{""fruits"": 1.0}",1.893299662440778,fruit;drink
+fruitsdelight:kiwi_popsicle,cold_void;fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",3.008660168006822,original:fruitarianism;fruit;sweet;cold
+fruitsdelight:lemon,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:lemon_cookie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",2.1967416792648606,original:sweet_tooth;fruit;sweet
+fruitsdelight:lemon_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:lemon_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:lemon_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,original:liquid_shades;fruit;drink
+fruitsdelight:lemon_slice,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+fruitsdelight:lemon_tart,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.266470418323181,original:sweet_tooth;fruit;sweet
+fruitsdelight:lychee,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:lychee_cherry_tea,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.956445196863466,original:sweet_tooth;fruit;drink
+fruitsdelight:lychee_chicken,fruitarianism,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",1.994427190999916,fruit
+fruitsdelight:lychee_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:lychee_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:mango,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:mango_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:mango_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:mango_milkshake,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.14313612215454,original:fruitarianism;fruit;drink
+fruitsdelight:mango_salad,fruitarianism;herbivores;temple_body,"{""fruits"": 0.454545, ""sugars"": 0.090909, ""vegetables"": 0.454545}",2.7227840092730045,original:fruitarianism;fruit;vegetable;balanced-meal
+fruitsdelight:mango_tea,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8568169765524971,original:liquid_shades;fruit;drink
+fruitsdelight:mangosteen,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:mangosteen_cake,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.0999827465554715,fruit;sweet
+fruitsdelight:mangosteen_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:mangosteen_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:mangosteen_tea,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8568169765524971,original:sweet_tooth;fruit;drink
+fruitsdelight:melon_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:melon_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:orange,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:orange_chicken,fruitarianism,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",2.0972049687776937,fruit
+fruitsdelight:orange_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:orange_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:orange_juice,champion_breakfast;fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,original:champion_breakfast;original:liquid_shades;fruit;drink
+fruitsdelight:orange_marinated_pork,fruitarianism;temple_body,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",2.098593857666583,original:temple_body;fruit
+fruitsdelight:orange_slice,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+fruitsdelight:peach,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:peach_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:peach_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:peach_tea,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8568169765524971,original:liquid_shades;fruit;drink
+fruitsdelight:pear,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:pear_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:pear_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:pear_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,original:liquid_shades;fruit;drink
+fruitsdelight:pear_with_rock_sugar,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.105538302111027,original:fruitarianism;fruit;sweet
+fruitsdelight:persimmon,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:persimmon_cookie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1.6656854249492383,original:sweet_tooth;fruit;sweet
+fruitsdelight:persimmon_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:persimmon_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.856336207321728,fruit;sweet;drink
+fruitsdelight:pineapple_jello,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:pineapple_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+fruitsdelight:pineapple_marinated_pork,fruitarianism;temple_body,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",2.098593857666583,original:fruitarianism;original:temple_body;fruit
+fruitsdelight:pineapple_pie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",2.0033333333333334,fruit;sweet
+fruitsdelight:pineapple_slice,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+fruitsdelight:sweetberry_jello,fruitarianism,"{""fruits"": 1.0}",1.969455459494237,original:fruitarianism;fruit
+fruitsdelight:sweetberry_jelly,fruitarianism;liquid_shades;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1.956445196863466,fruit;sweet;drink
+galosphere:golden_lichen_cordyceps,herbivores;sacred_food,"{""vegetables"": 1.0}",1,original:sacred_food;vegetable;golden/enchanted
+galosphere:lichen_cordyceps,herbivores,"{""vegetables"": 1.0}",1,vegetable
+galosphere:preserved_flesh,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+galosphere:salted_jerky,rudokop,"{""proteins"": 1.0}",1.9000000000000001,portable/cave-food
+galospheric_delight:allurite_cocktail,high_proof;liquid_shades,"{""sugars"": 1.0}",1.804574313838127,drink;alcohol
+galospheric_delight:allurite_cupcake,sweet_tooth,"{""sugars"": 1.0}",2.6132957472073395,sweet
+galospheric_delight:allurite_pie_slice,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1,original:sweet_tooth;sweet
+galospheric_delight:amethyst_cocktail,high_proof;liquid_shades,"{""sugars"": 1.0}",1.9712409805047935,drink;alcohol
+galospheric_delight:amethyst_cupcake,sweet_tooth,"{""sugars"": 1.0}",2.6132957472073395,sweet
+galospheric_delight:amethyst_pie_slice,sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,original:sweet_tooth;sweet
+galospheric_delight:apple_in_salted_caramel,fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",2.0041666666666664,fruit;sweet
+galospheric_delight:apples_in_chicken_broth,base_minimum,"{""fruits"": 0.5, ""proteins"": 0.5}",2.6351298693936824,staple/protein
+galospheric_delight:cave_barbecue_stick,underrated,"{""vegetables"": 1.0}",2.3890799231028703,other-prepared-food
+galospheric_delight:cave_pizza_slice,fast_food,"{""carbohydrates"": 1.0}",2.511712812921102,fast-food
+galospheric_delight:chicken_cuts_with_sparkling_rice,temple_body,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.713891091898848,balanced-meal
+galospheric_delight:fruits_in_amethyst_dust,underrated,"{""fruits"": 1.0}",2.6538910918988474,other-prepared-food
+galospheric_delight:lichen_cordyceps_roll,basement_asia;herbivores,"{""vegetables"": 1.0}",1.7000000000000002,vegetable;asian-dish
+galospheric_delight:lumiere_cocktail,high_proof;liquid_shades,"{""fruits"": 0.416666, ""sugars"": 0.583333}",1.804574313838127,drink;alcohol
+galospheric_delight:lumiere_cupcake,sweet_tooth,"{""sugars"": 1.0}",2.6132957472073395,sweet
+galospheric_delight:lumiere_pie_slice,sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,original:sweet_tooth;sweet
+galospheric_delight:lush_sandwich,fast_food,"{""carbohydrates"": 0.5, ""fruits"": 0.5}",2.126906408094719,fast-food
+galospheric_delight:membranburger,underrated,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",2.288736060386662,other-prepared-food
+galospheric_delight:salted_caramel,sweet_tooth,"{""sugars"": 1.0}",1.6083333333333332,sweet
+galospheric_delight:salted_caramel_cake_slice,sweet_tooth,"{""sugars"": 1.0}",2.9631621920569153,sweet
+galospheric_delight:salted_fish,sea_world;temple_body,"{""proteins"": 1.0}",1.7670743138381269,seafood;balanced-meal
+galospheric_delight:specterpillar,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+galospheric_delight:specterpillar_sauce,underrated,"{""carbohydrates"": 1.0}",1.4,other-prepared-food
+grapesadventures:portal_fluid_bottle,liquid_shades,{},1,drink
+grapesadventures:tangle_roots,herbivores,"{""vegetables"": 1.0}",1,vegetable
+grapesseasonstuff:cooked_mussel_meat,sea_world;temple_body,"{""proteins"": 1.0}",1.1,seafood;balanced-meal
+grapesseasonstuff:ice_cubes,cold_void,"{""carbohydrates"": 1.0}",2.376539384180563,cold
+grapesseasonstuff:mango_sling_coctail,fruitarianism;high_proof;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.3594757082487305,original:high_proof;fruit;drink
+grapesseasonstuff:mojito_coctail,high_proof;liquid_shades,"{""fruits"": 0.416666, ""sugars"": 0.083334, ""vegetables"": 0.5}",2.3261423749153973,original:high_proof;drink
+grapesseasonstuff:pina_colada_coctail,high_proof;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8542472332656508,original:high_proof;drink
+grapesseasonstuff:raw_mussel_meat,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+grapesseasonstuff:sangria_coctail,high_proof;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.3261423749153973,original:high_proof;drink
+immersive_weathering:azalea_flowers,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+immersive_weathering:enchanted_golden_moss_clump,herbivores;sacred_food,"{""vegetables"": 1.0}",1,original:sacred_food;vegetable;golden/enchanted
+immersive_weathering:golden_moss_clump,herbivores;sacred_food,"{""vegetables"": 1.0}",2.609027558044619,original:sacred_food;vegetable;golden/enchanted
+immersive_weathering:ice_sickle,cold_void,"{""fats"": 0.048946, ""fruits"": 0.452201, ""sugars"": 0.09044, ""vegetables"": 0.408412}",2.192519200150638,cold
+immersive_weathering:icicle,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+immersive_weathering:moss_clump,herbivores,"{""vegetables"": 1.0}",1,vegetable
+incubation:fried_egg,champion_breakfast,"{""proteins"": 1.0}",1,breakfast
+incubation:scrambled_eggs,champion_breakfast,"{""proteins"": 1.0}",2.7129271717343464,breakfast
+ldelightfulcuisine:apple_pie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",3.0,fruit;sweet
+ldelightfulcuisine:baked_banana,fruitarianism;rudokop;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.0,fruit;portable/cave-food;balanced-meal
+ldelightfulcuisine:baked_eggplant,herbivores;rudokop;temple_body,"{""vegetables"": 1.0}",2.0,vegetable;portable/cave-food;balanced-meal
+ldelightfulcuisine:banana,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+ldelightfulcuisine:banana_pie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",3.0,fruit;sweet
+ldelightfulcuisine:beans,herbivores,"{""proteins"": 0.5, ""vegetables"": 0.5}",1,vegetable
+ldelightfulcuisine:cabbage_soup,herbivores;temple_body,"{""vegetables"": 1.0}",2.0,vegetable;balanced-meal
+ldelightfulcuisine:cheeseburger,fast_food,"{""carbohydrates"": 1.0}",2.0,fast-food
+ldelightfulcuisine:chicken_rice,temple_body,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",3.0,balanced-meal
+ldelightfulcuisine:citrus,base_minimum,"{""fruits"": 1.0}",1,simple/rough-food
+ldelightfulcuisine:coffee,liquid_shades,"{""fats"": 0.5, ""proteins"": 0.5}",1,drink
+ldelightfulcuisine:cucumber,herbivores,"{""vegetables"": 1.0}",1,vegetable
+ldelightfulcuisine:cucumber_salad,herbivores;temple_body,"{""vegetables"": 1.0}",2.0,vegetable;balanced-meal
+ldelightfulcuisine:desert_melon,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+ldelightfulcuisine:dumplings,basement_asia;underrated,"{""carbohydrates"": 1.0}",3.0,asian-dish;prepared-meal
+ldelightfulcuisine:eggplant,herbivores,"{""vegetables"": 1.0}",1,vegetable
+ldelightfulcuisine:eggplant_rolls,basement_asia;herbivores;underrated,"{""vegetables"": 1.0}",2.0,vegetable;asian-dish;prepared-meal
+ldelightfulcuisine:fruit_compote,fruitarianism;liquid_shades;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.2,fruit;drink;balanced-meal
+ldelightfulcuisine:fruit_salad,fruitarianism;herbivores;temple_body,"{""fruits"": 0.454545, ""sugars"": 0.090909, ""vegetables"": 0.454545}",2.0,fruit;vegetable;balanced-meal
+ldelightfulcuisine:herbal_decoction,liquid_shades,"{""fruits"": 0.5, ""vegetables"": 0.5}",1,drink
+ldelightfulcuisine:herbs,herbivores,"{""vegetables"": 1.0}",1,vegetable
+ldelightfulcuisine:khachapuri,underrated,"{""carbohydrates"": 0.333333, ""fats"": 0.166667, ""proteins"": 0.5}",3.0,other-prepared-food
+ldelightfulcuisine:khinkali,underrated,"{""carbohydrates"": 0.333333, ""proteins"": 0.333333, ""vegetables"": 0.333333}",3.0,other-prepared-food
+ldelightfulcuisine:lasagna,underrated,"{""carbohydrates"": 0.333333, ""fats"": 0.083333, ""proteins"": 0.25, ""vegetables"": 0.333333}",3.0,other-prepared-food
+ldelightfulcuisine:lemonade,liquid_shades,"{""fruits"": 0.5, ""sugars"": 0.5}",1.2,drink
+ldelightfulcuisine:lobio,herbivores,"{""proteins"": 0.5, ""vegetables"": 0.5}",2.0,vegetable
+ldelightfulcuisine:melon_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.2,fruit;drink
+ldelightfulcuisine:mushroom_pasta,herbivores;temple_body,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",2.0,vegetable;balanced-meal
+ldelightfulcuisine:mushroom_pie,herbivores;sweet_tooth,"{""carbohydrates"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.333333}",3.0,vegetable;sweet
+ldelightfulcuisine:pepper,herbivores;tangible_heat,"{""vegetables"": 1.0}",1,vegetable;hot/nether
+ldelightfulcuisine:potato_casserole,herbivores;underrated,"{""vegetables"": 1.0}",3.0,vegetable;prepared-meal
+ldelightfulcuisine:steamed_buns,underrated,"{""carbohydrates"": 0.333333, ""proteins"": 0.166667, ""vegetables"": 0.5}",2.0,other-prepared-food
+ldelightfulcuisine:steamed_vegetables,herbivores;temple_body,"{""vegetables"": 1.0}",2.0,vegetable;balanced-meal
+ldelightfulcuisine:tea,liquid_shades,"{""fruits"": 0.458333, ""sugars"": 0.291667, ""vegetables"": 0.25}",1,drink
+ldelightfulcuisine:tomato_pasta,herbivores,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",2.0,vegetable
+ldelightfulcuisine:vegetable_noodles,basement_asia;herbivores;temple_body,"{""carbohydrates"": 0.5, ""vegetables"": 0.5}",2.0,vegetable;asian-dish;balanced-meal
+lowlands_clothing:cookedgrizzlymeat,underrated,"{""carbohydrates"": 1.0}",1,other-prepared-food
+lowlands_clothing:golden_kouign_amann,sacred_food;sweet_tooth,"{""sugars"": 1.0}",1,sweet;golden/enchanted
+lowlands_clothing:kouign_amann,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+lowlands_clothing:rawgrizzlymeat,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+minecraft:apple,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+minecraft:baked_potato,base_minimum;herbivores;rudokop;temple_body,"{""vegetables"": 1.0}",1.1,original:base_minimum;vegetable;portable/cave-food;balanced-meal
+minecraft:beef,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:beetroot,herbivores;temple_body,"{""vegetables"": 1.0}",1,vegetable;balanced-meal
+minecraft:beetroot_soup,herbivores;temple_body,"{""vegetables"": 1.0}",1.5656854249492382,vegetable;balanced-meal
+minecraft:bread,base_minimum;rudokop,"{""carbohydrates"": 1.0}",1.2836629494364433,original:base_minimum;portable/cave-food
+minecraft:cake,sweet_tooth,"{""sugars"": 1.0}",3.1398516540078076,sweet
+minecraft:carrot,base_minimum;herbivores;temple_body,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable;balanced-meal
+minecraft:chicken,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+minecraft:chorus_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+minecraft:cod,sea_world,"{""proteins"": 1.0}",1,seafood
+minecraft:cooked_beef,base_minimum;temple_body,"{""proteins"": 1.0}",1,original:base_minimum;balanced-meal
+minecraft:cooked_chicken,base_minimum;temple_body,"{""proteins"": 1.0}",1,original:base_minimum;balanced-meal
+minecraft:cooked_cod,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+minecraft:cooked_mutton,base_minimum;temple_body,"{""proteins"": 1.0}",1,original:base_minimum;balanced-meal
+minecraft:cooked_porkchop,base_minimum;temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1.1,original:base_minimum;original:temple_body;balanced-meal
+minecraft:cooked_rabbit,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+minecraft:cooked_salmon,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+minecraft:cookie,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1.5656854249492382,sweet
+minecraft:dried_kelp,herbivores;rudokop;sea_world,"{""vegetables"": 1.0}",1,seafood;vegetable;portable/cave-food
+minecraft:enchanted_golden_apple,fruitarianism;sacred_food,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:sacred_food;fruit;golden/enchanted
+minecraft:glow_berries,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+minecraft:golden_apple,fruitarianism;sacred_food,"{""fruits"": 0.833333, ""sugars"": 0.166667}",3.1864095849363068,original:sacred_food;fruit;golden/enchanted
+minecraft:golden_carrot,herbivores;sacred_food;temple_body,"{""vegetables"": 1.0}",3.428925010867677,original:sacred_food;vegetable;golden/enchanted;balanced-meal
+minecraft:honey_bottle,liquid_shades;sweet_tooth,"{""sugars"": 1.0}",1.815685424949238,sweet;drink
+minecraft:melon_slice,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+minecraft:milk_bucket,liquid_shades;milk_detox,"{""fats"": 0.5, ""proteins"": 0.5}",2.8221220504244364,original:milk_detox;drink;dairy
+minecraft:mushroom_stew,herbivores;temple_body;underrated,"{""vegetables"": 1.0}",1.5,vegetable;balanced-meal;prepared-meal
+minecraft:mutton,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:poisonous_potato,herbivores,"{""vegetables"": 1.0}",1.1,vegetable
+minecraft:porkchop,base_minimum;temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1,original:base_minimum;original:temple_body
+minecraft:potato,base_minimum;herbivores,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable
+minecraft:potion,liquid_shades,{},1.815685424949238,drink
+minecraft:pufferfish,sea_world,"{""proteins"": 1.0}",1,seafood
+minecraft:pumpkin_pie,herbivores;sweet_tooth,"{""carbohydrates"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.333333}",1,original:sweet_tooth;vegetable;sweet
+minecraft:rabbit,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+minecraft:rabbit_stew,temple_body;underrated,"{""proteins"": 1.0}",2.285855707463199,balanced-meal;prepared-meal
+minecraft:rotten_flesh,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:salmon,sea_world,"{""proteins"": 1.0}",1,seafood
+minecraft:spider_eye,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:suspicious_stew,temple_body;underrated,"{""vegetables"": 1.0}",1,balanced-meal;prepared-meal
+minecraft:sweet_berries,base_minimum;fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,original:base_minimum;fruit;sweet
+minecraft:tropical_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+miners_delight:arthropod,rudokop,"{""proteins"": 1.0}",1,original:rudokop;portable/cave-food
+miners_delight:baked_cave_carrot,herbivores;rudokop;temple_body,"{""vegetables"": 1.0}",1,original:rudokop;vegetable;portable/cave-food;balanced-meal
+miners_delight:baked_cod_stew_cup,liquid_shades;rudokop;sea_world;temple_body;underrated,"{""proteins"": 1.0}",1,seafood;drink;portable/cave-food;balanced-meal;prepared-meal
+miners_delight:baked_spider_leg,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+miners_delight:baked_squid,rudokop;sea_world;temple_body,"{""proteins"": 1.0}",1,original:rudokop;seafood;portable/cave-food;balanced-meal
+miners_delight:baked_tentacles,rudokop;temple_body,"{""proteins"": 1.0}",1.1,original:rudokop;portable/cave-food;balanced-meal
+miners_delight:bat_cookie,rudokop;sweet_tooth,"{""carbohydrates"": 0.333333, ""proteins"": 0.333333, ""sugars"": 0.333333}",1.6656854249492383,original:rudokop;sweet;portable/cave-food
+miners_delight:bat_rolls,rudokop;underrated,"{""proteins"": 1.0}",1.6011494252873562,original:rudokop;original:underrated;portable/cave-food;prepared-meal
+miners_delight:bat_soup,rudokop;temple_body;underrated,"{""proteins"": 1.0}",1.4,original:rudokop;original:underrated;portable/cave-food;balanced-meal
+miners_delight:bat_soup_cup,liquid_shades;rudokop;temple_body,"{""proteins"": 1.0}",1,drink;portable/cave-food;balanced-meal
+miners_delight:bat_wing,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+miners_delight:beef_stew_cup,liquid_shades;rudokop;temple_body;underrated,"{""proteins"": 1.0}",1,drink;portable/cave-food;balanced-meal;prepared-meal
+miners_delight:beetroot_soup_cup,herbivores;liquid_shades;rudokop;temple_body,"{""vegetables"": 1.0}",1,vegetable;drink;portable/cave-food;balanced-meal
+miners_delight:bone_broth_cup,liquid_shades;rudokop,"{""carbohydrates"": 1.0}",1,drink;portable/cave-food
+miners_delight:bowl_of_stuffed_squid,rudokop;sea_world,"{""proteins"": 1.0}",1,original:rudokop;original:sea_world;seafood;portable/cave-food
+miners_delight:cave_carrot,herbivores;rudokop;temple_body,"{""vegetables"": 1.0}",1,original:rudokop;vegetable;portable/cave-food;balanced-meal
+miners_delight:cave_hamburger,rudokop,"{""carbohydrates"": 0.25, ""proteins"": 0.5, ""vegetables"": 0.25}",1,portable/cave-food
+miners_delight:cave_soup,rudokop;temple_body,"{""vegetables"": 1.0}",1.742820323027551,original:rudokop;portable/cave-food;balanced-meal
+miners_delight:cave_soup_cup,liquid_shades;rudokop;temple_body,"{""carbohydrates"": 1.0}",1,drink;portable/cave-food;balanced-meal
+miners_delight:chicken_soup_cup,liquid_shades;rudokop;temple_body,"{""proteins"": 1.0}",1,drink;portable/cave-food;balanced-meal
+miners_delight:cooked_arthropod,rudokop;temple_body,"{""proteins"": 1.0}",1,original:rudokop;portable/cave-food;balanced-meal
+miners_delight:copper_carrot,herbivores;rudokop;temple_body,"{""vegetables"": 1.0}",2.353593072120699,original:rudokop;vegetable;portable/cave-food;balanced-meal
+miners_delight:crunchy_bar,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+miners_delight:egg_soup_cup,champion_breakfast;liquid_shades;rudokop;temple_body,"{""proteins"": 1.0}",1,drink;breakfast;portable/cave-food;balanced-meal
+miners_delight:fish_stew_cup,liquid_shades;rudokop;sea_world;temple_body;underrated,"{""proteins"": 1.0}",1,seafood;drink;portable/cave-food;balanced-meal;prepared-meal
+miners_delight:glow_ink_pasta,rudokop,"{""carbohydrates"": 1.0}",2.1333515092218946,original:rudokop;portable/cave-food
+miners_delight:glow_squid,rudokop;sea_world,"{""proteins"": 1.0}",1,original:rudokop;seafood;portable/cave-food
+miners_delight:golden_nutritional_bar,rudokop;sacred_food,"{""carbohydrates"": 0.031746, ""fats"": 0.012431, ""fruits"": 0.114844, ""proteins"": 0.634921, ""sugars"": 0.038842, ""vegetables"": 0.167216}",1,golden/enchanted;portable/cave-food
+miners_delight:improvised_barbecue_stick,rudokop;underrated,"{""fats"": 0.014684, ""fruits"": 0.13566, ""proteins"": 0.3, ""sugars"": 0.027132, ""vegetables"": 0.522524}",2.6227733244336746,original:rudokop;original:underrated;portable/cave-food
+miners_delight:insect_sandwich,fast_food;rudokop;underrated,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.677192075384081,original:rudokop;original:underrated;fast-food;portable/cave-food
+miners_delight:insect_stew,rudokop;underrated,"{""proteins"": 1.0}",1.4,original:rudokop;original:underrated;portable/cave-food;prepared-meal
+miners_delight:insect_stew_cup,liquid_shades;rudokop;underrated,"{""proteins"": 1.0}",1,drink;portable/cave-food;prepared-meal
+miners_delight:insect_wrap,fast_food;rudokop;underrated,"{""proteins"": 1.0}",1.6656854249492383,original:rudokop;original:underrated;fast-food;portable/cave-food
+miners_delight:milk_cup,liquid_shades;milk_detox;rudokop,"{""fats"": 0.5, ""proteins"": 0.5}",2.090685424949238,drink;dairy;portable/cave-food
+miners_delight:moss,herbivores;rudokop,"{""vegetables"": 1.0}",1,vegetable;portable/cave-food
+miners_delight:mushroom_stew_cup,herbivores;liquid_shades;rudokop;temple_body;underrated,"{""vegetables"": 1.0}",1,vegetable;drink;portable/cave-food;balanced-meal;prepared-meal
+miners_delight:noodle_soup_cup,basement_asia;liquid_shades;rudokop;temple_body,"{""carbohydrates"": 1.0}",1,drink;asian-dish;portable/cave-food;balanced-meal
+miners_delight:nutritional_bar,rudokop,"{""carbohydrates"": 0.285714, ""proteins"": 0.571429, ""sugars"": 0.142857}",1,portable/cave-food
+miners_delight:onion_soup_cup,herbivores;liquid_shades;rudokop;temple_body,"{""vegetables"": 1.0}",1,vegetable;drink;portable/cave-food;balanced-meal
+miners_delight:pasta_with_veggieballs,herbivores;rudokop,"{""carbohydrates"": 1.0}",2.0197270065416966,original:herbivores;original:rudokop;portable/cave-food
+miners_delight:plate_of_fake_meatloaf,rudokop,"{""carbohydrates"": 1.0}",1,portable/cave-food
+miners_delight:plate_of_glazed_arachnid_limbs,rudokop,"{""carbohydrates"": 1.0}",1,portable/cave-food
+miners_delight:pumpkin_soup_cup,herbivores;liquid_shades;rudokop;temple_body,"{""vegetables"": 1.0}",1,vegetable;drink;portable/cave-food;balanced-meal
+miners_delight:rabbit_stew_cup,liquid_shades;rudokop;temple_body;underrated,"{""proteins"": 1.0}",1,drink;portable/cave-food;balanced-meal;prepared-meal
+miners_delight:rock_soup_cup,liquid_shades;rudokop;tangible_heat;temple_body,"{""carbohydrates"": 1.0}",1,original:tangible_heat;drink;portable/cave-food;balanced-meal
+miners_delight:seasoned_arthropods,rudokop;underrated,"{""proteins"": 1.0}",3.033898640747687,original:rudokop;original:underrated;portable/cave-food
+miners_delight:silverfish_eggs,champion_breakfast;rudokop,"{""proteins"": 1.0}",1,original:rudokop;breakfast;portable/cave-food
+miners_delight:smoked_bat_wing,rudokop,"{""proteins"": 1.0}",1,original:rudokop;portable/cave-food
+miners_delight:spicy_hoglin_stew_cup,liquid_shades;rudokop;tangible_heat;temple_body;underrated,"{""proteins"": 1.0}",1,original:tangible_heat;original:temple_body;drink;hot/nether;portable/cave-food;balanced-meal;prepared-meal
+miners_delight:spicy_noodle_soup_cup,basement_asia;liquid_shades;rudokop;tangible_heat;temple_body,"{""carbohydrates"": 1.0}",1,original:tangible_heat;drink;asian-dish;hot/nether;portable/cave-food;balanced-meal
+miners_delight:spider_leg,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+miners_delight:squid,rudokop;sea_world,"{""proteins"": 1.0}",1,original:rudokop;seafood;portable/cave-food
+miners_delight:squid_sandwich,fast_food;rudokop;sea_world,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.783926642318931,original:rudokop;original:sea_world;seafood;fast-food;portable/cave-food
+miners_delight:strider_stew_cup,liquid_shades;rudokop;tangible_heat;temple_body;underrated,"{""proteins"": 1.0}",1,drink;hot/nether;portable/cave-food;balanced-meal;prepared-meal
+miners_delight:takoyaki,basement_asia;rudokop,"{""carbohydrates"": 0.175, ""fats"": 0.025, ""proteins"": 0.525, ""vegetables"": 0.275}",1.9324613391789285,original:basement_asia;original:rudokop;portable/cave-food
+miners_delight:tentacles,rudokop,"{""proteins"": 1.0}",1,original:rudokop;portable/cave-food
+miners_delight:tentacles_on_a_stick,rudokop,"{""fats"": 0.016315, ""fruits"": 0.150734, ""proteins"": 0.666667, ""sugars"": 0.030147, ""vegetables"": 0.136137}",1,portable/cave-food
+miners_delight:vegan_hamburger,herbivores;rudokop,"{""carbohydrates"": 0.25, ""vegetables"": 0.75}",2.706903990260906,original:herbivores;portable/cave-food
+miners_delight:vegan_patty,rudokop,"{""vegetables"": 1.0}",1,portable/cave-food
+miners_delight:vegan_steak_and_potatoes,herbivores;rudokop,"{""proteins"": 0.5, ""vegetables"": 0.5}",2.6738910918988474,original:herbivores;original:rudokop;vegetable;portable/cave-food
+miners_delight:vegan_wrap,fast_food;herbivores;rudokop,"{""carbohydrates"": 0.166667, ""vegetables"": 0.833333}",1.6656854249492383,original:herbivores;fast-food;portable/cave-food
+miners_delight:vegetable_soup_cup,herbivores;liquid_shades;rudokop;temple_body,"{""vegetables"": 1.0}",1,vegetable;drink;portable/cave-food;balanced-meal
+miners_delight:weird_caviar,rudokop;sea_world;underrated,"{""proteins"": 1.0}",2.5351841879011103,original:rudokop;original:underrated;seafood;portable/cave-food
+mynethersdelight:bacon-wrapped_sausage_on_a_stick,fast_food;tangible_heat,"{""proteins"": 1.0}",2.4273648917163304,hot/nether;fast-food
+mynethersdelight:bleeding_tartar,tangible_heat;temple_body;underrated,"{""fats"": 0.013566, ""fruits"": 0.190568, ""proteins"": 0.75, ""sugars"": 0.0323, ""vegetables"": 0.013566}",2.5351841879011103,original:temple_body;original:underrated;hot/nether
+mynethersdelight:blue_tenderloin_steak,tangible_heat,"{""proteins"": 1.0}",2.5462952990122214,hot/nether
+mynethersdelight:boiled_egg,champion_breakfast;tangible_heat,"{""proteins"": 1.0}",1.08,original:champion_breakfast;hot/nether;breakfast
+mynethersdelight:breakfast_sampler,champion_breakfast;tangible_heat,"{""carbohydrates"": 0.142857, ""fats"": 0.007752, ""fruits"": 0.108896, ""proteins"": 0.642857, ""sugars"": 0.089886, ""vegetables"": 0.007752}",3.19090879314916,original:champion_breakfast;hot/nether;breakfast
+mynethersdelight:bullet_pepper,herbivores;tangible_heat,"{""vegetables"": 1.0}",1,vegetable;hot/nether
+mynethersdelight:burnt_roll,basement_asia;tangible_heat,"{""fats"": 0.3375, ""proteins"": 0.3625, ""sugars"": 0.3}",2.4148187152630074,original:tangible_heat;asian-dish;hot/nether
+mynethersdelight:chilidog,tangible_heat,"{""fats"": 0.035714, ""proteins"": 0.339286, ""vegetables"": 0.625}",3.024538919429463,original:tangible_heat;hot/nether
+mynethersdelight:cooked_loin,tangible_heat;temple_body,"{""proteins"": 1.0}",1,original:temple_body;hot/nether;balanced-meal
+mynethersdelight:crimson_stroganoff,tangible_heat;underrated,"{""carbohydrates"": 0.2, ""fats"": 0.1, ""proteins"": 0.3, ""vegetables"": 0.4}",2.7147786678325985,original:underrated;hot/nether
+mynethersdelight:deviled_egg,champion_breakfast;tangible_heat,"{""proteins"": 1.0}",1.8090187582825712,original:tangible_heat;hot/nether;breakfast
+mynethersdelight:dried_ghast_with_milk,liquid_shades;milk_detox;rudokop;tangible_heat;underrated,"{""fats"": 0.333333, ""proteins"": 0.666667}",2.8364475670387517,original:underrated;drink;hot/nether;dairy;portable/cave-food
+mynethersdelight:egg_soup,champion_breakfast;tangible_heat;temple_body,"{""proteins"": 1.0}",2.35431336027201,hot/nether;breakfast;balanced-meal
+mynethersdelight:enchanted_golden_egg,champion_breakfast;sacred_food;tangible_heat,"{""proteins"": 1.0}",1,hot/nether;golden/enchanted;breakfast
+mynethersdelight:fried_hoglin_chop,tangible_heat;temple_body,"{""proteins"": 1.0}",2.648566193354861,original:temple_body;hot/nether
+mynethersdelight:fries_ghasta,fast_food;tangible_heat,"{""carbohydrates"": 1.0}",1.4,hot/nether;fast-food
+mynethersdelight:ghast_dough,tangible_heat,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1.792820323027551,hot/nether
+mynethersdelight:ghast_salad,herbivores;tangible_heat;temple_body;underrated,"{""proteins"": 0.5, ""vegetables"": 0.5}",2.5351841879011103,original:underrated;vegetable;hot/nether;balanced-meal
+mynethersdelight:ghast_sourdough,tangible_heat,"{""proteins"": 1.0}",2.2099484522385717,hot/nether
+mynethersdelight:ghasta,tangible_heat,"{""carbohydrates"": 1.0}",1,hot/nether
+mynethersdelight:giant_takoyaki,basement_asia;tangible_heat,"{""carbohydrates"": 0.35, ""fats"": 0.05, ""proteins"": 0.05, ""vegetables"": 0.55}",1.9324613391789285,original:basement_asia;hot/nether
+mynethersdelight:golden_egg,champion_breakfast;sacred_food;tangible_heat,"{""proteins"": 1.0}",2.6179164469335077,hot/nether;golden/enchanted;breakfast
+mynethersdelight:hoglin_loin,tangible_heat;temple_body,"{""proteins"": 1.0}",1,original:temple_body;hot/nether
+mynethersdelight:hoglin_sausage,fast_food;tangible_heat;temple_body,"{""proteins"": 1.0}",1,original:temple_body;hot/nether;fast-food
+mynethersdelight:hot_cream,liquid_shades;sweet_tooth;tangible_heat,"{""fats"": 0.5, ""sugars"": 0.5}",1,original:tangible_heat;sweet;drink;hot/nether
+mynethersdelight:hot_cream_cone,sweet_tooth;tangible_heat,"{""fats"": 0.5, ""sugars"": 0.5}",1,original:tangible_heat;sweet;hot/nether
+mynethersdelight:hot_wings,tangible_heat,"{""fats"": 0.027132, ""fruits"": 0.381137, ""proteins"": 0.166667, ""sugars"": 0.064599, ""vegetables"": 0.360465}",1.6656854249492383,original:tangible_heat;hot/nether
+mynethersdelight:hot_wings_bucket,tangible_heat,"{""fats"": 0.145349, ""fruits"": 0.285853, ""proteins"": 0.25, ""sugars"": 0.048449, ""vegetables"": 0.270349}",2.987837920576572,original:tangible_heat;hot/nether
+mynethersdelight:hotdog,fast_food;tangible_heat,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.8172599756522643,hot/nether;fast-food
+mynethersdelight:hotdog_with_mixed_salad,fast_food;herbivores;tangible_heat;temple_body;underrated,"{""vegetables"": 1.0}",4,original:underrated;vegetable;hot/nether;fast-food;balanced-meal
+mynethersdelight:hotdog_with_nether_salad,fast_food;herbivores;tangible_heat;temple_body;underrated,"{""vegetables"": 1.0}",4,original:underrated;vegetable;hot/nether;fast-food;balanced-meal
+mynethersdelight:magma_cake_slice,sweet_tooth;tangible_heat,"{""sugars"": 1.0}",1,original:tangible_heat;sweet;hot/nether
+mynethersdelight:minced_strider,tangible_heat,"{""proteins"": 1.0}",1,hot/nether
+mynethersdelight:nether_burger,fast_food;tangible_heat;underrated,"{""carbohydrates"": 1.0}",2.725237323594239,original:underrated;hot/nether;fast-food
+mynethersdelight:plate_of_cold_striderloaf,cold_void;tangible_heat;underrated,"{""carbohydrates"": 1.0}",1,original:underrated;hot/nether;cold
+mynethersdelight:plate_of_ghasta_with_cream,sweet_tooth;tangible_heat;underrated,"{""fats"": 0.5, ""sugars"": 0.5}",1,original:underrated;sweet;hot/nether
+mynethersdelight:plate_of_striderloaf,tangible_heat;underrated,"{""carbohydrates"": 1.0}",1,original:underrated;hot/nether
+mynethersdelight:plate_of_stuffed_hoglin,tangible_heat;temple_body,"{""proteins"": 1.0}",1,original:temple_body;hot/nether
+mynethersdelight:plate_of_stuffed_hoglin_ham,tangible_heat;temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1,original:temple_body;hot/nether
+mynethersdelight:plate_of_stuffed_hoglin_snout,tangible_heat;temple_body,"{""proteins"": 1.0}",1,original:temple_body;hot/nether
+mynethersdelight:red_loin_on_a_stick,tangible_heat,"{""fats"": 0.012237, ""fruits"": 0.11305, ""proteins"": 0.25, ""sugars"": 0.02261, ""vegetables"": 0.602103}",2.40782992310287,hot/nether
+mynethersdelight:roast_ear,tangible_heat;temple_body,"{""carbohydrates"": 1.0}",1,hot/nether;balanced-meal
+mynethersdelight:roasted_sausage,fast_food;tangible_heat;temple_body,"{""proteins"": 1.0}",1.1,hot/nether;fast-food;balanced-meal
+mynethersdelight:rock_soup,tangible_heat;temple_body,"{""fats"": 0.228252, ""fruits"": 0.084697, ""proteins"": 0.444444, ""sugars"": 0.236578, ""vegetables"": 0.006029}",2.7717282667570986,original:tangible_heat;hot/nether;balanced-meal
+mynethersdelight:sausage_and_potatoes,fast_food;herbivores;tangible_heat;underrated,"{""proteins"": 0.5, ""vegetables"": 0.5}",1.6656854249492383,original:underrated;vegetable;hot/nether;fast-food
+mynethersdelight:scotch_eggs,champion_breakfast;tangible_heat,"{""proteins"": 1.0}",2.716450310853683,original:champion_breakfast;hot/nether;breakfast
+mynethersdelight:sizzling_pudding,sweet_tooth;tangible_heat;underrated,"{""sugars"": 1.0}",2.8824572852537083,original:underrated;sweet;hot/nether
+mynethersdelight:slices_of_bread,rudokop;tangible_heat,"{""carbohydrates"": 1.0}",2.9099484522385715,hot/nether;portable/cave-food
+mynethersdelight:spicy_cotton,tangible_heat,"{""vegetables"": 1.0}",1.792820323027551,hot/nether
+mynethersdelight:spicy_curry,basement_asia;tangible_heat;underrated,"{""carbohydrates"": 0.166667, ""fats"": 0.098958, ""proteins"": 0.244792, ""vegetables"": 0.489583}",2.702607352128967,original:tangible_heat;asian-dish;hot/nether;prepared-meal
+mynethersdelight:spicy_hoglin_stew,tangible_heat;temple_body;underrated,"{""proteins"": 1.0}",1.899070323027551,original:tangible_heat;original:temple_body;hot/nether;balanced-meal;prepared-meal
+mynethersdelight:spicy_noodle_soup,basement_asia;tangible_heat;temple_body;underrated,"{""carbohydrates"": 1.0}",2.2635668416497805,original:tangible_heat;original:underrated;asian-dish;hot/nether;balanced-meal
+mynethersdelight:spicy_skewer,tangible_heat,"{""proteins"": 0.333333, ""vegetables"": 0.666667}",1.792820323027551,original:tangible_heat;hot/nether
+mynethersdelight:strider_egg,champion_breakfast;liquid_shades;tangible_heat,"{""proteins"": 1.0}",1,drink;hot/nether;breakfast
+mynethersdelight:strider_slice,tangible_heat,"{""proteins"": 1.0}",1,hot/nether
+mynethersdelight:strider_stew,tangible_heat;temple_body;underrated,"{""proteins"": 1.0}",1.9084453230275509,original:underrated;hot/nether;balanced-meal;prepared-meal
+mynethersdelight:strider_with_grilled_fungus,herbivores;tangible_heat;temple_body;underrated,"{""proteins"": 0.5, ""vegetables"": 0.5}",1.9188619896942174,original:underrated;vegetable;hot/nether;balanced-meal
+mynethersdelight:stuffed_pepper,herbivores;tangible_heat,"{""vegetables"": 1.0}",2.6216290805406732,original:tangible_heat;vegetable;hot/nether
+mynethersdelight:tear_popsicle,cold_void;sweet_tooth;tangible_heat,"{""sugars"": 1.0}",3.56944834571116,sweet;hot/nether;cold
+mynethersdelight:toasts,champion_breakfast;tangible_heat,"{""carbohydrates"": 1.0}",3.4099484522385715,original:champion_breakfast;hot/nether;breakfast
+mynethersdelight:twisted_ghasta,tangible_heat,"{""vegetables"": 1.0}",1.7767965360603493,hot/nether
+naturalist:bass,sea_world,"{""proteins"": 1.0}",1,seafood
+naturalist:bushmeat,underrated,"{""proteins"": 1.0}",1,other-prepared-food
+naturalist:catfish,sea_world,"{""proteins"": 1.0}",1,seafood
+naturalist:cooked_bass,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+naturalist:cooked_bushmeat,temple_body,"{""proteins"": 1.0}",1,original:temple_body;balanced-meal
+naturalist:cooked_catfish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+naturalist:cooked_duck,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+naturalist:cooked_egg,champion_breakfast;temple_body,"{""proteins"": 1.0}",1,breakfast;balanced-meal
+naturalist:cooked_lizard_tail,temple_body,"{""carbohydrates"": 1.0}",1,original:temple_body;balanced-meal
+naturalist:cooked_venison,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+naturalist:duck,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+naturalist:lizard_tail,temple_body,"{""carbohydrates"": 1.0}",1,original:temple_body
+naturalist:venison,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+nethers_exoticism:bouddha_s_hand,fruitarianism,"{""fruits"": 1.0}",1,fruit
+nethers_exoticism:bouddha_s_hand_juice,fruitarianism;liquid_shades,"{""fruits"": 1.0}",1.9078427124746191,fruit;drink
+nethers_exoticism:chopped_bouddha_s_hand,fruitarianism,"{""fruits"": 1.0}",1,fruit
+nethers_exoticism:curious_fruits_salad,fruitarianism;herbivores;temple_body,"{""fruits"": 0.5, ""vegetables"": 0.5}",2.9384575407278692,fruit;vegetable;balanced-meal
+nethers_exoticism:cut_pitaya,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+nethers_exoticism:jaboticaba,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+nethers_exoticism:jaboticaba_juice_bottle,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8156854249492382,fruit;drink
+nethers_exoticism:jaboticaba_juice_fire_resistance,fruitarianism;liquid_shades;tangible_heat,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;drink;hot/nether
+nethers_exoticism:jaboticaba_juice_night_vision,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;drink
+nethers_exoticism:jaboticaba_juice_saturation,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;drink
+nethers_exoticism:jaboticaba_juice_wither_cure,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;drink
+nethers_exoticism:kiwano,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;drink
+nethers_exoticism:kiwano_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.9078427124746191,fruit;drink
+nethers_exoticism:kiwano_peel,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+nethers_exoticism:moloch_in_a_bucket,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+nethers_exoticism:nethers_exoticism_icon,fruitarianism,"{""fruits"": 1.0}",1,fruit
+nethers_exoticism:pitaya,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+nethers_exoticism:pitaya_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.9078427124746191,fruit;drink
+nethers_exoticism:ramboutan,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+nethers_exoticism:rambutan_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.9078427124746191,fruit;drink
+nethers_exoticism:sliced_kiwano,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+nethers_exoticism:unsettling_fruits_salad,fruitarianism;herbivores;temple_body,"{""fruits"": 0.5, ""vegetables"": 0.5}",2.9384575407278692,fruit;vegetable;balanced-meal
+oceanic_delight:ancient_fish_eggs,champion_breakfast;sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;breakfast;balanced-meal
+oceanic_delight:bowl_of_paella,basement_asia;sea_world,"{""carbohydrates"": 1.0}",1,original:basement_asia;seafood
+oceanic_delight:caesar_salad,herbivores;sea_world;temple_body,"{""vegetables"": 1.0}",2.9491898751409966,seafood;vegetable;balanced-meal
+oceanic_delight:caviar_toast,champion_breakfast;sea_world,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1.8418314747182218,original:sea_world;seafood;breakfast
+oceanic_delight:egg_roll,basement_asia;champion_breakfast;sea_world,"{""proteins"": 1.0}",1.9178203230275508,original:basement_asia;seafood;asian-dish;breakfast
+oceanic_delight:elder_guardian_eye,sea_world,"{""proteins"": 1.0}",1,seafood
+oceanic_delight:fish_egg_noodle_soup,basement_asia;champion_breakfast;sea_world;temple_body,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.0505859161247226,original:basement_asia;seafood;asian-dish;breakfast;balanced-meal
+oceanic_delight:fish_egg_roll,basement_asia;champion_breakfast;sea_world;temple_body,"{""proteins"": 1.0}",2.2226530399704143,original:basement_asia;seafood;asian-dish;breakfast;balanced-meal
+oceanic_delight:fish_egg_roll_slice,basement_asia;champion_breakfast;sea_world;temple_body,"{""proteins"": 1.0}",2.5226530399704146,original:basement_asia;seafood;asian-dish;breakfast;balanced-meal
+oceanic_delight:fried_shrimp,basement_asia;sea_world,"{""proteins"": 1.0}",1.6656854249492383,original:basement_asia;seafood
+oceanic_delight:globular_rice,basement_asia;sea_world;temple_body,"{""carbohydrates"": 1.0}",1.8969869896942175,seafood;asian-dish;balanced-meal
+oceanic_delight:glow_squid_stew,sea_world;temple_body;underrated,"{""proteins"": 1.0}",1.792820323027551,original:sea_world;seafood;balanced-meal;prepared-meal
+oceanic_delight:glow_squid_tentacles,sea_world,"{""proteins"": 1.0}",1,seafood
+oceanic_delight:grilled_squid_tentacles,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+oceanic_delight:nautilus_juice,liquid_shades;sea_world,"{""fruits"": 0.444444, ""sugars"": 0.222222, ""vegetables"": 0.333333}",1.5656854249492382,seafood;drink
+oceanic_delight:pasta_with_eyeball,sea_world,"{""carbohydrates"": 1.0}",2.0505859161247226,seafood
+oceanic_delight:plate_of_stuffed_pufferfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+oceanic_delight:potato_salad,herbivores;sea_world;temple_body,"{""vegetables"": 1.0}",2.633891091898848,original:sea_world;seafood;vegetable;balanced-meal
+oceanic_delight:salmon_eggs,champion_breakfast;sea_world,"{""proteins"": 1.0}",1,seafood;breakfast
+oceanic_delight:sea_grape,fruitarianism;sea_world,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,seafood;fruit
+oceanic_delight:sea_grape_juice,fruitarianism;liquid_shades;sea_world,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.050908345931527,seafood;fruit;drink
+oceanic_delight:sea_pickle_roll,basement_asia;herbivores;sea_world,"{""vegetables"": 1.0}",2.131927190999916,original:basement_asia;seafood;vegetable;asian-dish
+oceanic_delight:sea_pickle_roll_slice,basement_asia;herbivores;sea_world,"{""vegetables"": 1.0}",2.4319271909999163,original:basement_asia;seafood;vegetable;asian-dish
+oceanic_delight:sea_pickle_slices,herbivores;sea_world,"{""vegetables"": 1.0}",1,seafood;vegetable
+oceanic_delight:sea_salad,herbivores;sea_world;temple_body,"{""vegetables"": 1.0}",2.5351841879011103,original:sea_world;seafood;vegetable;balanced-meal
+oceanic_delight:seafood_skewer,sea_world,"{""fats"": 0.012237, ""fruits"": 0.11305, ""proteins"": 0.5, ""sugars"": 0.02261, ""vegetables"": 0.352103}",2.55550127934018,original:sea_world;seafood
+oceanic_delight:shrimp,sea_world,"{""proteins"": 1.0}",1,seafood
+oceanic_delight:shrimp_chips,basement_asia;fast_food;sea_world,"{""proteins"": 1.0}",1.9324613391789285,original:basement_asia;seafood;fast-food
+oceanic_delight:shrimp_rice,basement_asia;sea_world;temple_body,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",1.9000000000000001,original:basement_asia;seafood;asian-dish;balanced-meal
+oceanic_delight:shrimp_roll,basement_asia;sea_world,"{""proteins"": 1.0}",1.9178203230275508,original:basement_asia;seafood;asian-dish
+oceanic_delight:shrimp_slices,sea_world,"{""proteins"": 1.0}",1,seafood
+oceanic_delight:shrimp_stew,basement_asia;sea_world;temple_body;underrated,"{""proteins"": 1.0}",2.010416666666667,original:basement_asia;seafood;balanced-meal;prepared-meal
+oceanic_delight:sponge_cake_slice,sea_world;sweet_tooth,"{""sugars"": 1.0}",1,original:sea_world;seafood;sweet
+oceanic_delight:squid_and_pickles,basement_asia;herbivores;sea_world,"{""proteins"": 0.5, ""vegetables"": 0.5}",2.6538910918988474,original:basement_asia;original:sea_world;seafood;vegetable
+oceanic_delight:squid_salad,herbivores;sea_world;temple_body,"{""fruits"": 0.333333, ""proteins"": 0.333333, ""vegetables"": 0.333333}",2.5351841879011103,original:sea_world;seafood;vegetable;balanced-meal
+oceanic_delight:squid_tentacles,sea_world,"{""proteins"": 1.0}",1,seafood
+oceanic_delight:steamed_beef,sea_world,"{""proteins"": 1.0}",1.792820323027551,seafood
+oceanic_delight:takoyaki,basement_asia;sea_world,"{""carbohydrates"": 0.175, ""fats"": 0.025, ""proteins"": 0.525, ""vegetables"": 0.275}",1.9574613391789284,original:basement_asia;seafood
+oceanicrealms:cooked_crab_claw,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+oceanicrealms:cooked_mackerel_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+oceanicrealms:cooked_silver_pomfret_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+oceanicrealms:fish_fillet,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+oceanicrealms:mackerel_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+oceanicrealms:raw_dolphinfish,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+oceanicrealms:raw_sailfish,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+oceanicrealms:raw_tuna,rudokop;sea_world,"{""proteins"": 1.0}",1,seafood;portable/cave-food
+oceanicrealms:silver_pomfret_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+phantasm:behemoth_meat,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+phantasm:behemoth_steak,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+phantasm:chorus_fruit_salad,fruitarianism;herbivores;temple_body,"{""fruits"": 0.454545, ""sugars"": 0.090909, ""vegetables"": 0.454545}",2.633891091898848,fruit;vegetable;balanced-meal
+phantasm:oblifruit,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+phantasm:pome_slice,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+phantasm:pream_berry,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+quark:ancient_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+quark:cooked_crab_leg,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+quark:crab_leg,sea_world,"{""proteins"": 1.0}",1,seafood
+quarkdelight:bowl_of_exotic_fruits,underrated,"{""fruits"": 1.0}",2.5351841879011103,original:underrated
+quarkdelight:bucket_of_sweet_gelatine,sweet_tooth,"{""sugars"": 1.0}",1.7712409805047937,sweet
+quarkdelight:cavern_explorer_stew,temple_body;underrated,"{""proteins"": 0.53125, ""vegetables"": 0.46875}",1.6656854249492383,original:underrated;balanced-meal;prepared-meal
+quarkdelight:cloud_latte,liquid_shades,"{""fats"": 0.125, ""proteins"": 0.375, ""sugars"": 0.25, ""vegetables"": 0.25}",2.607694731387794,drink
+quarkdelight:cooked_whole_crab,sea_world;temple_body,"{""proteins"": 1.0}",1.9000000000000001,original:sea_world;seafood;balanced-meal
+quarkdelight:crab_bars,sea_world,"{""proteins"": 1.0}",1.8004076471714605,original:sea_world;seafood
+quarkdelight:crab_pasta,sea_world,"{""carbohydrates"": 0.5, ""proteins"": 0.5}",2.0197270065416966,original:sea_world;seafood
+quarkdelight:lush_moss_salad,herbivores;temple_body;underrated,"{""fruits"": 0.5, ""vegetables"": 0.5}",2.5351841879011103,original:underrated;vegetable;balanced-meal
+quarkdelight:miso_with_bamboo_sprouts,basement_asia;herbivores,"{""vegetables"": 1.0}",2.0008333333333335,original:basement_asia;vegetable;asian-dish
+regions_unexplored:duskmelon_slice,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+regions_unexplored:hanging_earlight_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+regions_unexplored:meadow_sage,herbivores,"{""vegetables"": 1.0}",1,vegetable
+regions_unexplored:salmonberry,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+rottencreatures:frozen_rotten_flesh,cold_void,"{""proteins"": 1.0}",1,cold
+rottencreatures:magma_rotten_flesh,tangible_heat,"{""proteins"": 1.0}",1,hot/nether
+supplementaries:candy,sweet_tooth,"{""sugars"": 1.0}",2.2762732071443876,original:sweet_tooth;sweet
+supplementaries:lumisene_bottle,liquid_shades,"{""fats"": 0.007937, ""fruits"": 0.755518, ""proteins"": 0.010665, ""sugars"": 0.214596, ""vegetables"": 0.011285}",1.9709138999323177,drink
+supplementaries:soap,base_minimum,"{""fats"": 0.585318, ""fruits"": 0.049991, ""proteins"": 0.336, ""sugars"": 0.025871, ""vegetables"": 0.002821}",2.719958095158122,simple/rough-food
+tide:abyss_angler,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:alpha_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+tide:amber_rockfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:anchovy,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:angelfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:anglerfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:apple_fishing_bobber,fruitarianism;sea_world,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",2.5157135918707585,seafood;fruit
+tide:arapaima,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:ash_perch,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:bedrock_bug,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:bedrock_tetra,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:black_crappie,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:blazing_swordfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:blossom_bass,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:blue_neonfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:bluegill,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:brook_trout,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:bull_shark,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:carp,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:catfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:cave_crawler,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:cave_eel,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:chasm_eel,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:chorus_cod,fruitarianism;sea_world,"{""fruits"": 0.3125, ""proteins"": 0.625, ""sugars"": 0.0625}",1,original:sea_world;seafood;fruit
+tide:coelacanth,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:cooked_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+tide:cooked_fish_slice,sea_world;temple_body,"{""proteins"": 1.0}",1.1,original:sea_world;seafood;balanced-meal
+tide:crimson_fangjaw,sea_world;tangible_heat,"{""proteins"": 1.0}",1,original:sea_world;seafood;hot/nether
+tide:crystal_shrimp,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:crystalline_carp,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:darkness_eater,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:deep_blue,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:deep_grouper,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:devils_hole_pupfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:dragon_fish,fruitarianism;sea_world;temple_body,"{""fruits"": 0.3125, ""proteins"": 0.625, ""sugars"": 0.0625}",1,original:sea_world;seafood;fruit;balanced-meal
+tide:dripstone_darter,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:dutchman_sock,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:echo_snapper,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:elytrout,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:ember_koi,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:enchanted_golden_apple_fishing_bobber,fruitarianism;sacred_food;sea_world,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",2.5157135918707585,seafood;fruit;golden/enchanted
+tide:ender_glider,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:enderfin,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:endergazer,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:fish_slice,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+tide:flounder,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:frostbite_flounder,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:gilded_minnow,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:glowfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:golden_apple_fishing_bobber,fruitarianism;sacred_food;sea_world,"{""fruits"": 0.454545, ""proteins"": 0.454545, ""sugars"": 0.090909}",3.2445167868495277,seafood;fruit;golden/enchanted
+tide:great_white_shark,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:grilled_tuna,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+tide:guppy,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:incandescent_larva,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:inferno_guppy,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:iron_tetra,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:judgment_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+tide:lapis_lanternfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:large_cooked_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+tide:largemouth_bass,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:luminescent_jellyfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:mackerel,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:magma_mackerel,sea_world;tangible_heat,"{""proteins"": 1.0}",1,original:sea_world;seafood;hot/nether
+tide:mahi_mahi,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:manta_ray,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:mantyvern,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:marstilus,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:midas_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+tide:mirage_catfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:mooneye,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:nephrosilu,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:neptune_koi,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:obsidian_pike,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:ocean_perch,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:pale_clubfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:pentapus,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:pike,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:pluto_snail,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:rainbow_trout,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:red_40,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:red_snapper,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:sailfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:sand_tiger_shark,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:saturn_cuttlefish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:shadow_shark,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:shadow_snapper,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:sleepy_carp,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:slimy_salmon,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:small_cooked_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal
+tide:smallmouth_bass,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:snatcher_squid,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:snook,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:soulscale,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:spore_stalker,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:sturgeon,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:sun_emblem,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:swordfish,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:tuna,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:uranias_pisces,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:vengeance,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:violet_carp,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:voidseeker,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:volcano_tuna,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:walleye,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:warped_guppy,sea_world;tangible_heat,"{""proteins"": 1.0}",1,original:sea_world;seafood;hot/nether
+tide:white_crappie,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:witherfin,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+tide:yellow_perch,sea_world,"{""proteins"": 1.0}",1,original:sea_world;seafood
+trials:ominous_bottle,liquid_shades,"{""carbohydrates"": 1.0}",1,drink
+unusualend:ancient_shard,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+unusualend:blazing_orb,base_minimum,"{""vegetables"": 1.0}",1.792820323027551,simple/rough-food
+unusualend:blob_stew,temple_body;underrated,"{""fats"": 0.054264, ""fruits"": 0.762273, ""sugars"": 0.129199, ""vegetables"": 0.054264}",1.9110852890569918,balanced-meal;prepared-meal
+unusualend:bluk_au_chocolat,underrated,"{""fats"": 0.166667, ""proteins"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.166667}",1.9262587511501634,other-prepared-food
+unusualend:bluk_skewer,underrated,"{""fruits"": 1.0}",2.294031558382997,other-prepared-food
+unusualend:bolok_fin,underrated,"{""carbohydrates"": 1.0}",1.1,other-prepared-food
+unusualend:chorus_juice,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.8062135521070495,fruit;drink
+unusualend:chorus_petal,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+unusualend:chorus_pie,fruitarianism;sweet_tooth,"{""carbohydrates"": 0.333333, ""fruits"": 0.333333, ""sugars"": 0.333333}",1,fruit;sweet
+unusualend:chorus_tea,fruitarianism;liquid_shades,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1.9636217993395695,fruit;drink
+unusualend:citrine_gum,base_minimum,"{""sugars"": 1.0}",1.5,simple/rough-food
+unusualend:cooked_bluk,temple_body,"{""carbohydrates"": 1.0}",1,balanced-meal
+unusualend:cooked_bolok_fin,temple_body,"{""carbohydrates"": 1.0}",1.3,balanced-meal
+unusualend:disc_fragment_flying_ships,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+unusualend:end_blob,base_minimum,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,simple/rough-food
+unusualend:end_blob_jelly,sweet_tooth,"{""sugars"": 1.0}",1,sweet
+unusualend:ender_stew,temple_body;underrated,"{""fruits"": 1.0}",2.5404141486903566,original:underrated;balanced-meal;prepared-meal
+unusualend:enderblob_moult,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+unusualend:enderling_scrap,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+unusualend:floating_pouch,base_minimum,"{""fruits"": 0.531419, ""proteins"": 0.029716, ""sugars"": 0.105871, ""vegetables"": 0.332994}",2.1674639729952623,simple/rough-food
+unusualend:gloopilon_slice,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+unusualend:lurker_sludge,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+unusualend:prismatic_gum,base_minimum,"{""sugars"": 1.0}",2.2156854249492386,simple/rough-food
+unusualend:raw_bluk,rudokop,"{""carbohydrates"": 1.0}",1,portable/cave-food
+unusualend:shiny_gum,base_minimum,"{""sugars"": 1.0}",1.5,simple/rough-food
+unusualend:void_totem,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+unusualend:wandering_stew,temple_body;underrated,"{""carbohydrates"": 1.0}",1,balanced-meal;prepared-meal
+unusualend:warped_berries,fruitarianism;tangible_heat,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;hot/nether
+unusualend:warped_infusion,liquid_shades;tangible_heat,"{""carbohydrates"": 1.0}",1,drink;hot/nether
+unusualend:warped_potion,liquid_shades;tangible_heat,"{""carbohydrates"": 1.0}",1,drink;hot/nether
+unusualend:warped_squash_wedge,herbivores;tangible_heat,"{""vegetables"": 1.0}",1.05,vegetable;hot/nether
+unusualend:warped_stew,tangible_heat;temple_body;underrated,"{""fruits"": 1.0}",2.608936489792657,original:underrated;hot/nether;balanced-meal;prepared-meal
+upgrade_aquatic:boiled_pickerelweed,herbivores,"{""vegetables"": 1.0}",1,vegetable
+upgrade_aquatic:cooked_lionfish,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+upgrade_aquatic:cooked_perch,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+upgrade_aquatic:cooked_pike,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+upgrade_aquatic:lionfish,base_minimum,"{""proteins"": 1.0}",1,simple/rough-food
+upgrade_aquatic:mulberry,underrated,"{""fruits"": 1.0}",1,other-prepared-food
+upgrade_aquatic:mulberry_bread,rudokop,"{""carbohydrates"": 1.0}",2.2903249695653303,portable/cave-food
+upgrade_aquatic:mulberry_jam_bottle,liquid_shades;sweet_tooth,"{""sugars"": 1.0}",1.8969869896942175,sweet;drink
+upgrade_aquatic:mulberry_pie,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1,sweet
+upgrade_aquatic:perch,sea_world,"{""proteins"": 1.0}",1,seafood
+upgrade_aquatic:pike,sea_world,"{""proteins"": 1.0}",1,seafood
+wan_ancient_beasts:cooked_ancient_meat,temple_body,"{""proteins"": 1.0}",1.1,balanced-meal
+wan_ancient_beasts:cooked_toxlacanth,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+wan_ancient_beasts:frozen_ancient_meat,cold_void,"{""proteins"": 1.0}",1,cold
+wan_ancient_beasts:nasty_stew,temple_body;underrated,"{""fats"": 0.110853, ""fruits"": 0.152455, ""proteins"": 0.7, ""sugars"": 0.02584, ""vegetables"": 0.010853}",3.1744842528880524,balanced-meal;prepared-meal
+wan_ancient_beasts:raw_ancient_meat,rudokop,"{""proteins"": 1.0}",1,portable/cave-food
+wan_ancient_beasts:toxlacanth,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+warriorsofpastepoch:anti_plague_serum,liquid_shades,"{""carbohydrates"": 1.0}",1,drink
+warriorsofpastepoch:bat_soup,temple_body,"{""proteins"": 1.0}",2.5351841879011103,balanced-meal
+warriorsofpastepoch:batwing,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+warriorsofpastepoch:moldy_cheese,milk_detox,"{""fats"": 0.5, ""proteins"": 0.5}",1,dairy
+warriorsofpastepoch:rat_carcass,base_minimum,"{""carbohydrates"": 1.0}",1,simple/rough-food
+warriorsofpastepoch:stale_cheese_sandwich,fast_food;milk_detox,"{""carbohydrates"": 0.333333, ""fats"": 0.333333, ""proteins"": 0.333333}",2.054794057906867,fast-food;dairy
+yungscavebiomes:prickly_peach,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit

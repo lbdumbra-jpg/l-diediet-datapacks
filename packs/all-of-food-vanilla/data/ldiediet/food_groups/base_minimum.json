@@ -1,0 +1,47 @@
+{
+  "name": "Базовый минимум",
+  "advancement": "all_of_food_vanilla:groups/base_minimum",
+  "active_effect_text": "Неполноценное питание",
+  "flag": "-c",
+  "threshold": 7,
+  "hide_activation_message": false,
+  "require_unique": false,
+  "tooltip_icon": "🍞",
+  "tooltip_icon_color": "yellow",
+  "items": [
+    "minecraft:apple",
+    "minecraft:baked_potato",
+    "minecraft:beef",
+    "minecraft:bread",
+    "minecraft:carrot",
+    "minecraft:chicken",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:melon_slice",
+    "minecraft:mutton",
+    "minecraft:porkchop",
+    "minecraft:potato",
+    "minecraft:rabbit",
+    "minecraft:rotten_flesh",
+    "minecraft:spider_eye",
+    "minecraft:sweet_berries"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:regeneration",
+      "amplifier": 0,
+      "duration_ticks": 2400,
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.base_minimum.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.base_minimum.active",
+  "icon": "minecraft:bread",
+  "order": 0
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Тело - храм",
+  "advancement": "all_of_food_vanilla:groups/temple_body",
+  "active_effect_text": "Грязная еда",
+  "flag": "-c",
+  "threshold": 10,
+  "hide_activation_message": false,
+  "require_unique": true,
+  "tooltip_icon": "⛪",
+  "tooltip_icon_color": "white",
+  "items": [
+    "minecraft:baked_potato",
+    "minecraft:beetroot",
+    "minecraft:beetroot_soup",
+    "minecraft:carrot",
+    "minecraft:chorus_fruit",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_salmon",
+    "minecraft:golden_carrot",
+    "minecraft:mushroom_stew",
+    "minecraft:porkchop",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew",
+    "minecraft:tropical_fish"
+  ],
+  "effects": [
+    {
+      "duration_type": "until_death",
+      "effect_type": "overlay",
+      "effect_id": "grayscale",
+      "value": 1.0,
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    },
+    {
+      "duration_type": "until_death",
+      "effect_type": "health",
+      "effect_id": "health_2",
+      "value": -4.0,
+      "requires_active_groups": [],
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    },
+    {
+      "duration_type": "until_death_intermittent",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:hunger",
+      "amplifier": 0,
+      "interval_active_ticks": [
+        200,
+        200
+      ],
+      "interval_pause_ticks": [
+        1200,
+        1200
+      ],
+      "requires_active_groups": [],
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.temple_body.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.temple_body.active",
+  "icon": "minecraft:beetroot",
+  "order": 90
+}

@@ -1,0 +1,27 @@
+{
+  "parent": "all_of_food_vanilla:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:rabbit_stew"
+    },
+    "title": {
+      "translate": "ldiediet.group.ldiediet.underrated.name",
+      "fallback": "Недооцененные"
+    },
+    "description": {
+      "translate": "ldiediet.advancement.food_group",
+      "with": [
+        7
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

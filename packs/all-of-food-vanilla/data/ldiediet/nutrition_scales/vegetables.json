@@ -1,0 +1,38 @@
+{
+  "name": "Vegetables",
+  "name_key": "ldiediet.nutrition.vegetables",
+  "max_value": 100,
+  "order": 30,
+  "color": "#80995A",
+  "icon": "minecraft:textures/item/carrot.png",
+  "thresholds": [
+    {
+      "min": 80,
+      "max": 100,
+      "max_inclusive": false,
+      "modifiers": [
+        {
+          "attribute": "minecraft:generic.armor",
+          "amount": 1,
+          "operation": "addition"
+        }
+      ]
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "modifiers": [
+        {
+          "attribute": "minecraft:generic.armor",
+          "amount": 2,
+          "operation": "addition"
+        },
+        {
+          "attribute": "minecraft:generic.armor_toughness",
+          "amount": 0.5,
+          "operation": "addition"
+        }
+      ]
+    }
+  ]
+}

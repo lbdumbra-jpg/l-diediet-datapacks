@@ -1,0 +1,27 @@
+{
+  "parent": "all_of_food_vanilla:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:beetroot"
+    },
+    "title": {
+      "translate": "ldiediet.group.ldiediet.temple_body.name",
+      "fallback": "Тело - храм"
+    },
+    "description": {
+      "translate": "ldiediet.advancement.food_group",
+      "with": [
+        10
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Священная еда",
+  "active_effect_text": "Святой",
+  "flag": "-o",
+  "threshold": 1,
+  "hide_activation_message": true,
+  "require_unique": false,
+  "tooltip_icon": "✨",
+  "tooltip_icon_color": "gold",
+  "items": [
+    "minecraft:enchanted_golden_apple",
+    "minecraft:golden_apple",
+    "minecraft:golden_carrot"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:regeneration",
+      "amplifier": 0,
+      "duration_ticks": 3600,
+      "requires_active_groups": [
+        "temple_body"
+      ]
+    }
+  ],
+  "advancement": "all_of_food_vanilla:groups/sacred_food",
+  "name_key": "ldiediet.group.ldiediet.sacred_food.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.sacred_food.active",
+  "icon": "minecraft:golden_apple",
+  "order": 60
+}

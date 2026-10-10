@@ -1,0 +1,28 @@
+{
+  "name": "Недооцененные",
+  "advancement": "all_of_food_vanilla:groups/underrated",
+  "active_effect_text": "Чего-то не хватает",
+  "flag": "-o",
+  "threshold": 7,
+  "hide_activation_message": false,
+  "require_unique": false,
+  "tooltip_icon": "⭐",
+  "tooltip_icon_color": "yellow",
+  "items": [
+    "minecraft:mushroom_stew",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew"
+  ],
+  "effects": [
+    {
+      "duration_type": "until_death",
+      "effect_type": "nutrient_multiplier",
+      "effect_id": "all",
+      "value": 0.25
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.underrated.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.underrated.active",
+  "icon": "minecraft:rabbit_stew",
+  "order": 100
+}

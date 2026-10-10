@@ -1,0 +1,38 @@
+{
+  "name": "Fats",
+  "name_key": "ldiediet.nutrition.fats",
+  "max_value": 100,
+  "order": 50,
+  "color": "#D4AD58",
+  "icon": "minecraft:textures/item/honey_bottle.png",
+  "thresholds": [
+    {
+      "min": 80,
+      "max": 100,
+      "max_inclusive": false,
+      "modifiers": [
+        {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "amount": 0.03,
+          "operation": "addition"
+        }
+      ]
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "modifiers": [
+        {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "amount": 0.06,
+          "operation": "addition"
+        },
+        {
+          "attribute": "minecraft:generic.max_health",
+          "amount": 2,
+          "operation": "addition"
+        }
+      ]
+    }
+  ]
+}

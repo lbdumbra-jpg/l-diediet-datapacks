@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:apple"
+    },
+    "title": {
+      "text": "All of Food"
+    },
+    "description": {
+      "translate": "ldiediet.advancement.food_groups"
+    },
+    "background": "minecraft:textures/block/oak_planks.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "join": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

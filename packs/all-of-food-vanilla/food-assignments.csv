@@ -1,0 +1,44 @@
+﻿item,groups,nutrients,cci,assignment_reason
+minecraft:apple,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+minecraft:baked_potato,base_minimum;herbivores;rudokop;temple_body,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable;portable/cave-food;balanced-meal
+minecraft:beef,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:beetroot,herbivores;temple_body,"{""vegetables"": 1.0}",1,vegetable;balanced-meal
+minecraft:beetroot_soup,herbivores;temple_body,"{""vegetables"": 1.0}",2.4558001401590976,vegetable;balanced-meal
+minecraft:bread,base_minimum;rudokop,"{""carbohydrates"": 1.0}",1.5656854249492382,original:base_minimum;portable/cave-food
+minecraft:cake,sweet_tooth,"{""sugars"": 1.0}",2.2313708498984766,sweet
+minecraft:carrot,base_minimum;herbivores;temple_body,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable;balanced-meal
+minecraft:chicken,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+minecraft:chorus_fruit,fruitarianism;temple_body,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit;balanced-meal
+minecraft:cod,sea_world,"{""proteins"": 1.0}",1,seafood
+minecraft:cooked_beef,base_minimum;temple_body,"{""proteins"": 1.0}",1,original:base_minimum;balanced-meal
+minecraft:cooked_chicken,base_minimum;temple_body,"{""proteins"": 1.0}",1,original:base_minimum;balanced-meal
+minecraft:cooked_cod,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+minecraft:cooked_mutton,base_minimum;temple_body,"{""proteins"": 1.0}",1,original:base_minimum;balanced-meal
+minecraft:cooked_porkchop,base_minimum;temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1,original:base_minimum;original:temple_body;balanced-meal
+minecraft:cooked_rabbit,temple_body,"{""proteins"": 1.0}",1,balanced-meal
+minecraft:cooked_salmon,sea_world;temple_body,"{""proteins"": 1.0}",1,original:sea_world;seafood;balanced-meal
+minecraft:cookie,sweet_tooth,"{""carbohydrates"": 0.5, ""sugars"": 0.5}",1.5656854249492382,sweet
+minecraft:dried_kelp,herbivores;rudokop;sea_world,"{""vegetables"": 1.0}",1,seafood;vegetable;portable/cave-food
+minecraft:enchanted_golden_apple,fruitarianism;sacred_food,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:sacred_food;fruit;golden/enchanted
+minecraft:glow_berries,fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,fruit
+minecraft:golden_apple,fruitarianism;sacred_food,"{""fruits"": 0.833333, ""sugars"": 0.166667}",2.2313708498984766,original:sacred_food;fruit;golden/enchanted
+minecraft:golden_carrot,herbivores;sacred_food;temple_body,"{""vegetables"": 1.0}",2.2313708498984766,original:sacred_food;vegetable;golden/enchanted;balanced-meal
+minecraft:honey_bottle,liquid_shades;sweet_tooth,"{""sugars"": 1.0}",1,sweet;drink
+minecraft:melon_slice,base_minimum;fruitarianism,"{""fruits"": 0.833333, ""sugars"": 0.166667}",1,original:base_minimum;fruit
+minecraft:milk_bucket,liquid_shades;milk_detox,"{""fats"": 0.5, ""proteins"": 0.5}",1,original:milk_detox;drink;dairy
+minecraft:mushroom_stew,herbivores;temple_body;underrated,"{""vegetables"": 1.0}",2.2763619920561657,vegetable;balanced-meal;prepared-meal
+minecraft:mutton,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:poisonous_potato,herbivores,"{""vegetables"": 1.0}",1,vegetable
+minecraft:porkchop,base_minimum;temple_body,"{""fats"": 0.5, ""proteins"": 0.5}",1,original:base_minimum;original:temple_body
+minecraft:potato,base_minimum;herbivores,"{""vegetables"": 1.0}",1,original:base_minimum;vegetable
+minecraft:potion,liquid_shades,{},1,drink
+minecraft:pufferfish,sea_world,"{""proteins"": 1.0}",1,seafood
+minecraft:pumpkin_pie,herbivores;sweet_tooth,"{""carbohydrates"": 0.333333, ""sugars"": 0.333333, ""vegetables"": 0.333333}",1.6656854249492383,original:sweet_tooth;vegetable;sweet
+minecraft:rabbit,base_minimum,"{""proteins"": 1.0}",1,staple/protein
+minecraft:rabbit_stew,temple_body;underrated,"{""proteins"": 1.0}",2.346405940264157,balanced-meal;prepared-meal
+minecraft:rotten_flesh,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:salmon,sea_world,"{""proteins"": 1.0}",1,seafood
+minecraft:spider_eye,base_minimum,"{""proteins"": 1.0}",1,original:base_minimum
+minecraft:suspicious_stew,temple_body;underrated,"{""vegetables"": 1.0}",1,balanced-meal;prepared-meal
+minecraft:sweet_berries,base_minimum;fruitarianism;sweet_tooth,"{""fruits"": 0.5, ""sugars"": 0.5}",1,original:base_minimum;fruit;sweet
+minecraft:tropical_fish,sea_world;temple_body,"{""proteins"": 1.0}",1,seafood;balanced-meal

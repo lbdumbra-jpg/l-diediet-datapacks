@@ -1,0 +1,10 @@
+{
+  "nutrients": {
+    "carbohydrates": 0.055556,
+    "fats": 0.222222,
+    "proteins": 0.444444,
+    "sugars": 0.055556,
+    "vegetables": 0.222222
+  },
+  "cci": 1
+}

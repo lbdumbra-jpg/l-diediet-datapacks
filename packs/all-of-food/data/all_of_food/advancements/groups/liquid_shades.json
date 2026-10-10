@@ -1,0 +1,27 @@
+{
+  "parent": "all_of_food:root",
+  "display": {
+    "icon": {
+      "item": "minecraft:honey_bottle"
+    },
+    "title": {
+      "translate": "ldiediet.group.ldiediet.liquid_shades.name",
+      "fallback": "50 оттенков жидкости"
+    },
+    "description": {
+      "translate": "ldiediet.advancement.food_group",
+      "with": [
+        10
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "complete": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

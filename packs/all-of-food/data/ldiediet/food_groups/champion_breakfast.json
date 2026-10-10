@@ -1,0 +1,61 @@
+{
+  "name": "Завтрак чемпиона",
+  "advancement": "all_of_food:groups/champion_breakfast",
+  "active_effect_text": "Достаточно белка?",
+  "flag": "-c",
+  "threshold": 3,
+  "hide_activation_message": false,
+  "require_unique": true,
+  "tooltip_icon": "💪",
+  "tooltip_icon_color": "gold",
+  "items": [
+    "alexsmobs:boiled_emu_egg",
+    "brewinandchewin:egg_grog",
+    "culturaldelights:avocado_toast",
+    "culturaldelights:egg_roll",
+    "culturaldelights:hearty_salad",
+    "endergetic:cooked_eetle_egg",
+    "endersdelight:twisted_cereal",
+    "farmersdelight:bacon_and_eggs",
+    "farmersdelight:egg_sandwich",
+    "farmersdelight:fried_egg",
+    "fruitsdelight:orange_juice",
+    "incubation:fried_egg",
+    "incubation:scrambled_eggs",
+    "miners_delight:egg_soup_cup",
+    "miners_delight:silverfish_eggs",
+    "mynethersdelight:boiled_egg",
+    "mynethersdelight:breakfast_sampler",
+    "mynethersdelight:deviled_egg",
+    "mynethersdelight:egg_soup",
+    "mynethersdelight:enchanted_golden_egg",
+    "mynethersdelight:golden_egg",
+    "mynethersdelight:scotch_eggs",
+    "mynethersdelight:strider_egg",
+    "mynethersdelight:toasts",
+    "naturalist:cooked_egg",
+    "oceanic_delight:ancient_fish_eggs",
+    "oceanic_delight:caviar_toast",
+    "oceanic_delight:egg_roll",
+    "oceanic_delight:fish_egg_noodle_soup",
+    "oceanic_delight:fish_egg_roll",
+    "oceanic_delight:fish_egg_roll_slice",
+    "oceanic_delight:salmon_eggs"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "mob_effect",
+      "effect_id": "minecraft:strength",
+      "amplifier": 0,
+      "duration_ticks": 12000,
+      "cancel_on_groups": [
+        "sacred_food"
+      ]
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.champion_breakfast.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.champion_breakfast.active",
+  "icon": "minecraft:egg",
+  "order": 20
+}

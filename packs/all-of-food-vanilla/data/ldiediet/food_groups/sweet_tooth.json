@@ -1,0 +1,31 @@
+{
+  "name": "Сладкоежка",
+  "advancement": "all_of_food_vanilla:groups/sweet_tooth",
+  "active_effect_text": "Один сахар...",
+  "flag": "-c",
+  "threshold": 5,
+  "hide_activation_message": false,
+  "require_unique": true,
+  "tooltip_icon": "🍭",
+  "tooltip_icon_color": "light_purple",
+  "items": [
+    "minecraft:cake",
+    "minecraft:cookie",
+    "minecraft:honey_bottle",
+    "minecraft:pumpkin_pie",
+    "minecraft:sweet_berries"
+  ],
+  "effects": [
+    {
+      "duration_type": "fixed",
+      "effect_type": "nutrient_multiplier",
+      "effect_id": "sugars",
+      "value": -0.5,
+      "duration_ticks": 12000
+    }
+  ],
+  "name_key": "ldiediet.group.ldiediet.sweet_tooth.name",
+  "active_effect_text_key": "ldiediet.group.ldiediet.sweet_tooth.active",
+  "icon": "minecraft:cookie",
+  "order": 80
+}
