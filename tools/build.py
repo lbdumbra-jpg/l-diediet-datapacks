@@ -64,7 +64,6 @@ def main():
             for path in sorted(pack.rglob('*')):
                 if not path.is_file():
                     continue
-                assert not path.name.lower().startswith('readme'), 'README upload is deferred'
                 info = zipfile.ZipInfo(path.relative_to(pack).as_posix(), date_time=(2026, 10, 10, 0, 0, 0))
                 info.compress_type = zipfile.ZIP_DEFLATED
                 info.external_attr = 0o100644 << 16
